@@ -1,1009 +1,1247 @@
 time,temp,humidity,location,temp_outside,humidity_outside,location_outside
-2021-09-01 00:00:00,70.7,56.5,Backyard,58.0,67.0,Outside
 2021-09-01 00:00:00,62.06,60.6,Lower Northeast,58.0,67.0,Outside
-2021-09-01 00:00:00,64.58,62.1,Lower Southwest,58.0,67.0,Outside
-2021-09-01 00:00:00,68.72,55.29,Upper West (Bedroom),58.0,67.0,Outside
-2021-09-01 00:00:00,69.62,55.6,Upper East (Garage),58.0,67.0,Outside
+2021-09-01 00:00:00,70.7,56.5,Backyard,58.0,67.0,Outside
 2021-09-01 00:00:00,64.94,57.8,Lower Southeast,58.0,67.0,Outside
+2021-09-01 00:00:00,64.58,62.1,Lower Southwest,58.0,67.0,Outside
+2021-09-01 00:00:00,69.62,55.6,Upper East (Garage),58.0,67.0,Outside
+2021-09-01 00:00:00,68.72,55.29,Upper West (Bedroom),58.0,67.0,Outside
 2021-09-01 00:00:00,58.0,67.0,Outside,58.0,67.0,Outside
-2021-09-01 01:00:00,70.7,56.3,Backyard,57.0,69.0,Outside
 2021-09-01 01:00:00,61.88,60.4,Lower Northeast,57.0,69.0,Outside
-2021-09-01 01:00:00,64.4,61.9,Lower Southwest,57.0,69.0,Outside
-2021-09-01 01:00:00,68.54,54.89,Upper West (Bedroom),57.0,69.0,Outside
-2021-09-01 01:00:00,69.44,56.2,Upper East (Garage),57.0,69.0,Outside
+2021-09-01 01:00:00,70.7,56.3,Backyard,57.0,69.0,Outside
 2021-09-01 01:00:00,64.58,57.7,Lower Southeast,57.0,69.0,Outside
+2021-09-01 01:00:00,64.4,61.9,Lower Southwest,57.0,69.0,Outside
+2021-09-01 01:00:00,69.44,56.2,Upper East (Garage),57.0,69.0,Outside
+2021-09-01 01:00:00,68.54,54.89,Upper West (Bedroom),57.0,69.0,Outside
 2021-09-01 01:00:00,57.0,69.0,Outside,57.0,69.0,Outside
-2021-09-01 02:00:00,70.52,56.0,Backyard,55.0,74.0,Outside
 2021-09-01 02:00:00,61.88,61.0,Lower Northeast,55.0,74.0,Outside
-2021-09-01 02:00:00,64.4,61.6,Lower Southwest,55.0,74.0,Outside
-2021-09-01 02:00:00,68.36,55.49,Upper West (Bedroom),55.0,74.0,Outside
-2021-09-01 02:00:00,69.44,57.4,Upper East (Garage),55.0,74.0,Outside
+2021-09-01 02:00:00,70.52,56.0,Backyard,55.0,74.0,Outside
 2021-09-01 02:00:00,64.58,57.8,Lower Southeast,55.0,74.0,Outside
+2021-09-01 02:00:00,64.4,61.6,Lower Southwest,55.0,74.0,Outside
+2021-09-01 02:00:00,69.44,57.4,Upper East (Garage),55.0,74.0,Outside
+2021-09-01 02:00:00,68.36,55.49,Upper West (Bedroom),55.0,74.0,Outside
 2021-09-01 02:00:00,55.0,74.0,Outside,55.0,74.0,Outside
-2021-09-01 03:00:00,70.34,55.9,Backyard,54.0,77.0,Outside
 2021-09-01 03:00:00,61.88,61.5,Lower Northeast,54.0,77.0,Outside
-2021-09-01 03:00:00,64.4,62.0,Lower Southwest,54.0,77.0,Outside
-2021-09-01 03:00:00,68.36,55.19,Upper West (Bedroom),54.0,77.0,Outside
-2021-09-01 03:00:00,69.26,56.5,Upper East (Garage),54.0,77.0,Outside
+2021-09-01 03:00:00,70.34,55.9,Backyard,54.0,77.0,Outside
 2021-09-01 03:00:00,64.58,58.0,Lower Southeast,54.0,77.0,Outside
+2021-09-01 03:00:00,64.4,62.0,Lower Southwest,54.0,77.0,Outside
+2021-09-01 03:00:00,69.26,56.5,Upper East (Garage),54.0,77.0,Outside
+2021-09-01 03:00:00,68.36,55.19,Upper West (Bedroom),54.0,77.0,Outside
 2021-09-01 03:00:00,54.0,77.0,Outside,54.0,77.0,Outside
-2021-09-01 04:00:00,70.34,55.8,Backyard,54.0,80.0,Outside
 2021-09-01 04:00:00,61.7,61.8,Lower Northeast,54.0,80.0,Outside
-2021-09-01 04:00:00,64.22,62.0,Lower Southwest,54.0,80.0,Outside
-2021-09-01 04:00:00,68.18,55.69,Upper West (Bedroom),54.0,80.0,Outside
-2021-09-01 04:00:00,69.26,56.1,Upper East (Garage),54.0,80.0,Outside
+2021-09-01 04:00:00,70.34,55.8,Backyard,54.0,80.0,Outside
 2021-09-01 04:00:00,64.58,58.1,Lower Southeast,54.0,80.0,Outside
+2021-09-01 04:00:00,64.22,62.0,Lower Southwest,54.0,80.0,Outside
+2021-09-01 04:00:00,69.26,56.1,Upper East (Garage),54.0,80.0,Outside
+2021-09-01 04:00:00,68.18,55.69,Upper West (Bedroom),54.0,80.0,Outside
 2021-09-01 04:00:00,54.0,80.0,Outside,54.0,80.0,Outside
-2021-09-01 05:00:00,70.16,55.6,Backyard,53.0,80.0,Outside
 2021-09-01 05:00:00,61.7,62.4,Lower Northeast,53.0,80.0,Outside
-2021-09-01 05:00:00,64.22,62.4,Lower Southwest,53.0,80.0,Outside
-2021-09-01 05:00:00,68.36,56.49,Upper West (Bedroom),53.0,80.0,Outside
-2021-09-01 05:00:00,69.26,56.4,Upper East (Garage),53.0,80.0,Outside
+2021-09-01 05:00:00,70.16,55.6,Backyard,53.0,80.0,Outside
 2021-09-01 05:00:00,64.4,58.3,Lower Southeast,53.0,80.0,Outside
+2021-09-01 05:00:00,64.22,62.4,Lower Southwest,53.0,80.0,Outside
+2021-09-01 05:00:00,69.26,56.4,Upper East (Garage),53.0,80.0,Outside
+2021-09-01 05:00:00,68.36,56.49,Upper West (Bedroom),53.0,80.0,Outside
 2021-09-01 05:00:00,53.0,80.0,Outside,53.0,80.0,Outside
-2021-09-01 06:00:00,70.16,55.4,Backyard,53.0,80.0,Outside
 2021-09-01 06:00:00,61.34,62.9,Lower Northeast,53.0,80.0,Outside
-2021-09-01 06:00:00,64.22,62.4,Lower Southwest,53.0,80.0,Outside
-2021-09-01 06:00:00,68.0,57.19,Upper West (Bedroom),53.0,80.0,Outside
-2021-09-01 06:00:00,69.26,57.3,Upper East (Garage),53.0,80.0,Outside
+2021-09-01 06:00:00,70.16,55.4,Backyard,53.0,80.0,Outside
 2021-09-01 06:00:00,64.4,58.2,Lower Southeast,53.0,80.0,Outside
+2021-09-01 06:00:00,64.22,62.4,Lower Southwest,53.0,80.0,Outside
+2021-09-01 06:00:00,69.26,57.3,Upper East (Garage),53.0,80.0,Outside
+2021-09-01 06:00:00,68.0,57.19,Upper West (Bedroom),53.0,80.0,Outside
 2021-09-01 06:00:00,53.0,80.0,Outside,53.0,80.0,Outside
-2021-09-01 07:00:00,69.98,55.4,Backyard,51.0,83.0,Outside
 2021-09-01 07:00:00,61.34,64.1,Lower Northeast,51.0,83.0,Outside
-2021-09-01 07:00:00,64.4,63.0,Lower Southwest,51.0,83.0,Outside
-2021-09-01 07:00:00,68.0,57.19,Upper West (Bedroom),51.0,83.0,Outside
-2021-09-01 07:00:00,68.9,57.9,Upper East (Garage),51.0,83.0,Outside
+2021-09-01 07:00:00,69.98,55.4,Backyard,51.0,83.0,Outside
 2021-09-01 07:00:00,64.94,58.6,Lower Southeast,51.0,83.0,Outside
+2021-09-01 07:00:00,64.4,63.0,Lower Southwest,51.0,83.0,Outside
+2021-09-01 07:00:00,68.9,57.9,Upper East (Garage),51.0,83.0,Outside
+2021-09-01 07:00:00,68.0,57.19,Upper West (Bedroom),51.0,83.0,Outside
 2021-09-01 07:00:00,51.0,83.0,Outside,51.0,83.0,Outside
-2021-09-01 08:00:00,69.98,55.3,Backyard,52.0,83.0,Outside
 2021-09-01 08:00:00,61.34,64.7,Lower Northeast,52.0,83.0,Outside
-2021-09-01 08:00:00,64.4,63.2,Lower Southwest,52.0,83.0,Outside
-2021-09-01 08:00:00,67.82,57.49,Upper West (Bedroom),52.0,83.0,Outside
-2021-09-01 08:00:00,68.9,59.1,Upper East (Garage),52.0,83.0,Outside
+2021-09-01 08:00:00,69.98,55.3,Backyard,52.0,83.0,Outside
 2021-09-01 08:00:00,64.76,59.1,Lower Southeast,52.0,83.0,Outside
+2021-09-01 08:00:00,64.4,63.2,Lower Southwest,52.0,83.0,Outside
+2021-09-01 08:00:00,68.9,59.1,Upper East (Garage),52.0,83.0,Outside
+2021-09-01 08:00:00,67.82,57.49,Upper West (Bedroom),52.0,83.0,Outside
 2021-09-01 08:00:00,52.0,83.0,Outside,52.0,83.0,Outside
-2021-09-01 09:00:00,70.16,55.6,Backyard,56.0,72.0,Outside
 2021-09-01 09:00:00,61.16,64.6,Lower Northeast,56.0,72.0,Outside
-2021-09-01 09:00:00,64.04,63.4,Lower Southwest,56.0,72.0,Outside
-2021-09-01 09:00:00,67.46,57.69,Upper West (Bedroom),56.0,72.0,Outside
-2021-09-01 09:00:00,68.54,58.7,Upper East (Garage),56.0,72.0,Outside
+2021-09-01 09:00:00,70.16,55.6,Backyard,56.0,72.0,Outside
 2021-09-01 09:00:00,64.58,59.2,Lower Southeast,56.0,72.0,Outside
+2021-09-01 09:00:00,64.04,63.4,Lower Southwest,56.0,72.0,Outside
+2021-09-01 09:00:00,68.54,58.7,Upper East (Garage),56.0,72.0,Outside
+2021-09-01 09:00:00,67.46,57.69,Upper West (Bedroom),56.0,72.0,Outside
 2021-09-01 09:00:00,56.0,72.0,Outside,56.0,72.0,Outside
-2021-09-01 10:00:00,70.34,55.6,Backyard,59.0,62.0,Outside
 2021-09-01 10:00:00,61.52,64.7,Lower Northeast,59.0,62.0,Outside
-2021-09-01 10:00:00,64.22,63.8,Lower Southwest,59.0,62.0,Outside
-2021-09-01 10:00:00,67.82,57.89,Upper West (Bedroom),59.0,62.0,Outside
-2021-09-01 10:00:00,68.72,59.9,Upper East (Garage),59.0,62.0,Outside
+2021-09-01 10:00:00,70.34,55.6,Backyard,59.0,62.0,Outside
 2021-09-01 10:00:00,64.4,59.6,Lower Southeast,59.0,62.0,Outside
+2021-09-01 10:00:00,64.22,63.8,Lower Southwest,59.0,62.0,Outside
+2021-09-01 10:00:00,68.72,59.9,Upper East (Garage),59.0,62.0,Outside
+2021-09-01 10:00:00,67.82,57.89,Upper West (Bedroom),59.0,62.0,Outside
 2021-09-01 10:00:00,59.0,62.0,Outside,59.0,62.0,Outside
-2021-09-01 11:00:00,70.7,55.4,Backyard,62.0,58.0,Outside
 2021-09-01 11:00:00,61.88,63.0,Lower Northeast,62.0,58.0,Outside
-2021-09-01 11:00:00,64.04,63.2,Lower Southwest,62.0,58.0,Outside
-2021-09-01 11:00:00,67.64,56.69,Upper West (Bedroom),62.0,58.0,Outside
-2021-09-01 11:00:00,68.72,59.2,Upper East (Garage),62.0,58.0,Outside
+2021-09-01 11:00:00,70.7,55.4,Backyard,62.0,58.0,Outside
 2021-09-01 11:00:00,64.4,59.3,Lower Southeast,62.0,58.0,Outside
+2021-09-01 11:00:00,64.04,63.2,Lower Southwest,62.0,58.0,Outside
+2021-09-01 11:00:00,68.72,59.2,Upper East (Garage),62.0,58.0,Outside
+2021-09-01 11:00:00,67.64,56.69,Upper West (Bedroom),62.0,58.0,Outside
 2021-09-01 11:00:00,62.0,58.0,Outside,62.0,58.0,Outside
-2021-09-01 12:00:00,70.88,55.6,Backyard,65.0,52.0,Outside
 2021-09-01 12:00:00,62.06,62.7,Lower Northeast,65.0,52.0,Outside
-2021-09-01 12:00:00,64.22,62.9,Lower Southwest,65.0,52.0,Outside
-2021-09-01 12:00:00,67.82,55.39,Upper West (Bedroom),65.0,52.0,Outside
-2021-09-01 12:00:00,68.72,58.6,Upper East (Garage),65.0,52.0,Outside
+2021-09-01 12:00:00,70.88,55.6,Backyard,65.0,52.0,Outside
 2021-09-01 12:00:00,64.58,58.9,Lower Southeast,65.0,52.0,Outside
+2021-09-01 12:00:00,64.22,62.9,Lower Southwest,65.0,52.0,Outside
+2021-09-01 12:00:00,68.72,58.6,Upper East (Garage),65.0,52.0,Outside
+2021-09-01 12:00:00,67.82,55.39,Upper West (Bedroom),65.0,52.0,Outside
 2021-09-01 12:00:00,65.0,52.0,Outside,65.0,52.0,Outside
-2021-09-01 13:00:00,71.06,55.7,Backyard,69.0,47.0,Outside
 2021-09-01 13:00:00,62.6,61.8,Lower Northeast,69.0,47.0,Outside
-2021-09-01 13:00:00,64.22,62.6,Lower Southwest,69.0,47.0,Outside
-2021-09-01 13:00:00,68.18,55.19,Upper West (Bedroom),69.0,47.0,Outside
-2021-09-01 13:00:00,68.9,57.7,Upper East (Garage),69.0,47.0,Outside
+2021-09-01 13:00:00,71.06,55.7,Backyard,69.0,47.0,Outside
 2021-09-01 13:00:00,64.58,60.3,Lower Southeast,69.0,47.0,Outside
+2021-09-01 13:00:00,64.22,62.6,Lower Southwest,69.0,47.0,Outside
+2021-09-01 13:00:00,68.9,57.7,Upper East (Garage),69.0,47.0,Outside
+2021-09-01 13:00:00,68.18,55.19,Upper West (Bedroom),69.0,47.0,Outside
 2021-09-01 13:00:00,69.0,47.0,Outside,69.0,47.0,Outside
-2021-09-01 14:00:00,71.24,55.7,Backyard,74.0,35.0,Outside
 2021-09-01 14:00:00,62.78,60.9,Lower Northeast,74.0,35.0,Outside
-2021-09-01 14:00:00,64.4,63.1,Lower Southwest,74.0,35.0,Outside
-2021-09-01 14:00:00,68.54,53.39,Upper West (Bedroom),74.0,35.0,Outside
-2021-09-01 14:00:00,69.26,56.2,Upper East (Garage),74.0,35.0,Outside
+2021-09-01 14:00:00,71.24,55.7,Backyard,74.0,35.0,Outside
 2021-09-01 14:00:00,64.94,62.0,Lower Southeast,74.0,35.0,Outside
+2021-09-01 14:00:00,64.4,63.1,Lower Southwest,74.0,35.0,Outside
+2021-09-01 14:00:00,69.26,56.2,Upper East (Garage),74.0,35.0,Outside
+2021-09-01 14:00:00,68.54,53.39,Upper West (Bedroom),74.0,35.0,Outside
 2021-09-01 14:00:00,74.0,35.0,Outside,74.0,35.0,Outside
-2021-09-01 15:00:00,71.42,56.3,Backyard,77.0,31.0,Outside
 2021-09-01 15:00:00,63.32,58.2,Lower Northeast,77.0,31.0,Outside
-2021-09-01 15:00:00,64.58,63.4,Lower Southwest,77.0,31.0,Outside
-2021-09-01 15:00:00,69.08,54.09,Upper West (Bedroom),77.0,31.0,Outside
-2021-09-01 15:00:00,69.26,55.1,Upper East (Garage),77.0,31.0,Outside
+2021-09-01 15:00:00,71.42,56.3,Backyard,77.0,31.0,Outside
 2021-09-01 15:00:00,64.76,62.5,Lower Southeast,77.0,31.0,Outside
+2021-09-01 15:00:00,64.58,63.4,Lower Southwest,77.0,31.0,Outside
+2021-09-01 15:00:00,69.26,55.1,Upper East (Garage),77.0,31.0,Outside
+2021-09-01 15:00:00,69.08,54.09,Upper West (Bedroom),77.0,31.0,Outside
 2021-09-01 15:00:00,77.0,31.0,Outside,77.0,31.0,Outside
-2021-09-01 16:00:00,71.6,56.2,Backyard,79.0,27.0,Outside
 2021-09-01 16:00:00,63.68,56.3,Lower Northeast,79.0,27.0,Outside
-2021-09-01 16:00:00,64.58,63.6,Lower Southwest,79.0,27.0,Outside
-2021-09-01 16:00:00,69.26,52.99,Upper West (Bedroom),79.0,27.0,Outside
-2021-09-01 16:00:00,69.44,55.1,Upper East (Garage),79.0,27.0,Outside
+2021-09-01 16:00:00,71.6,56.2,Backyard,79.0,27.0,Outside
 2021-09-01 16:00:00,64.76,61.7,Lower Southeast,79.0,27.0,Outside
+2021-09-01 16:00:00,64.58,63.6,Lower Southwest,79.0,27.0,Outside
+2021-09-01 16:00:00,69.44,55.1,Upper East (Garage),79.0,27.0,Outside
+2021-09-01 16:00:00,69.26,52.99,Upper West (Bedroom),79.0,27.0,Outside
 2021-09-01 16:00:00,79.0,27.0,Outside,79.0,27.0,Outside
-2021-09-01 17:00:00,71.96,56.3,Backyard,79.0,28.0,Outside
 2021-09-01 17:00:00,63.86,55.3,Lower Northeast,79.0,28.0,Outside
-2021-09-01 17:00:00,64.4,64.0,Lower Southwest,79.0,28.0,Outside
-2021-09-01 17:00:00,69.44,51.49,Upper West (Bedroom),79.0,28.0,Outside
-2021-09-01 17:00:00,69.44,54.9,Upper East (Garage),79.0,28.0,Outside
+2021-09-01 17:00:00,71.96,56.3,Backyard,79.0,28.0,Outside
 2021-09-01 17:00:00,64.58,61.1,Lower Southeast,79.0,28.0,Outside
+2021-09-01 17:00:00,64.4,64.0,Lower Southwest,79.0,28.0,Outside
+2021-09-01 17:00:00,69.44,54.9,Upper East (Garage),79.0,28.0,Outside
+2021-09-01 17:00:00,69.44,51.49,Upper West (Bedroom),79.0,28.0,Outside
 2021-09-01 17:00:00,79.0,28.0,Outside,79.0,28.0,Outside
-2021-09-01 18:00:00,72.14,56.0,Backyard,78.0,30.0,Outside
 2021-09-01 18:00:00,64.22,54.7,Lower Northeast,78.0,30.0,Outside
-2021-09-01 18:00:00,64.4,65.0,Lower Southwest,78.0,30.0,Outside
-2021-09-01 18:00:00,69.44,51.79,Upper West (Bedroom),78.0,30.0,Outside
-2021-09-01 18:00:00,69.44,54.2,Upper East (Garage),78.0,30.0,Outside
+2021-09-01 18:00:00,72.14,56.0,Backyard,78.0,30.0,Outside
 2021-09-01 18:00:00,64.58,61.1,Lower Southeast,78.0,30.0,Outside
+2021-09-01 18:00:00,64.4,65.0,Lower Southwest,78.0,30.0,Outside
+2021-09-01 18:00:00,69.44,54.2,Upper East (Garage),78.0,30.0,Outside
+2021-09-01 18:00:00,69.44,51.79,Upper West (Bedroom),78.0,30.0,Outside
 2021-09-01 18:00:00,78.0,30.0,Outside,78.0,30.0,Outside
-2021-09-01 19:00:00,72.32,55.9,Backyard,75.0,34.0,Outside
 2021-09-01 19:00:00,64.04,57.7,Lower Northeast,75.0,34.0,Outside
-2021-09-01 19:00:00,64.58,65.4,Lower Southwest,75.0,34.0,Outside
-2021-09-01 19:00:00,69.44,52.59,Upper West (Bedroom),75.0,34.0,Outside
-2021-09-01 19:00:00,69.62,57.3,Upper East (Garage),75.0,34.0,Outside
+2021-09-01 19:00:00,72.32,55.9,Backyard,75.0,34.0,Outside
 2021-09-01 19:00:00,64.94,61.3,Lower Southeast,75.0,34.0,Outside
+2021-09-01 19:00:00,64.58,65.4,Lower Southwest,75.0,34.0,Outside
+2021-09-01 19:00:00,69.62,57.3,Upper East (Garage),75.0,34.0,Outside
+2021-09-01 19:00:00,69.44,52.59,Upper West (Bedroom),75.0,34.0,Outside
 2021-09-01 19:00:00,75.0,34.0,Outside,75.0,34.0,Outside
-2021-09-01 20:00:00,72.5,55.8,Backyard,72.0,38.0,Outside
 2021-09-01 20:00:00,63.68,58.3,Lower Northeast,72.0,38.0,Outside
-2021-09-01 20:00:00,64.58,64.6,Lower Southwest,72.0,38.0,Outside
-2021-09-01 20:00:00,69.26,52.79,Upper West (Bedroom),72.0,38.0,Outside
-2021-09-01 20:00:00,69.62,57.8,Upper East (Garage),72.0,38.0,Outside
+2021-09-01 20:00:00,72.5,55.8,Backyard,72.0,38.0,Outside
 2021-09-01 20:00:00,64.76,61.9,Lower Southeast,72.0,38.0,Outside
+2021-09-01 20:00:00,64.58,64.6,Lower Southwest,72.0,38.0,Outside
+2021-09-01 20:00:00,69.62,57.8,Upper East (Garage),72.0,38.0,Outside
+2021-09-01 20:00:00,69.26,52.79,Upper West (Bedroom),72.0,38.0,Outside
 2021-09-01 20:00:00,72.0,38.0,Outside,72.0,38.0,Outside
-2021-09-01 21:00:00,72.5,55.7,Backyard,70.0,41.0,Outside
 2021-09-01 21:00:00,63.5,57.8,Lower Northeast,70.0,41.0,Outside
-2021-09-01 21:00:00,64.4,63.1,Lower Southwest,70.0,41.0,Outside
-2021-09-01 21:00:00,69.08,51.69,Upper West (Bedroom),70.0,41.0,Outside
-2021-09-01 21:00:00,69.44,54.9,Upper East (Garage),70.0,41.0,Outside
+2021-09-01 21:00:00,72.5,55.7,Backyard,70.0,41.0,Outside
 2021-09-01 21:00:00,64.76,62.4,Lower Southeast,70.0,41.0,Outside
+2021-09-01 21:00:00,64.4,63.1,Lower Southwest,70.0,41.0,Outside
+2021-09-01 21:00:00,69.44,54.9,Upper East (Garage),70.0,41.0,Outside
+2021-09-01 21:00:00,69.08,51.69,Upper West (Bedroom),70.0,41.0,Outside
 2021-09-01 21:00:00,70.0,41.0,Outside,70.0,41.0,Outside
-2021-09-01 22:00:00,72.32,55.4,Backyard,68.0,43.0,Outside
 2021-09-01 22:00:00,63.5,57.8,Lower Northeast,68.0,43.0,Outside
-2021-09-01 22:00:00,64.4,62.6,Lower Southwest,68.0,43.0,Outside
-2021-09-01 22:00:00,68.9,51.69,Upper West (Bedroom),68.0,43.0,Outside
-2021-09-01 22:00:00,69.44,56.7,Upper East (Garage),68.0,43.0,Outside
+2021-09-01 22:00:00,72.32,55.4,Backyard,68.0,43.0,Outside
 2021-09-01 22:00:00,64.94,62.1,Lower Southeast,68.0,43.0,Outside
+2021-09-01 22:00:00,64.4,62.6,Lower Southwest,68.0,43.0,Outside
+2021-09-01 22:00:00,69.44,56.7,Upper East (Garage),68.0,43.0,Outside
+2021-09-01 22:00:00,68.9,51.69,Upper West (Bedroom),68.0,43.0,Outside
 2021-09-01 22:00:00,68.0,43.0,Outside,68.0,43.0,Outside
-2021-09-01 23:00:00,72.32,55.1,Backyard,66.0,52.0,Outside
 2021-09-01 23:00:00,63.32,57.9,Lower Northeast,66.0,52.0,Outside
-2021-09-01 23:00:00,64.4,62.2,Lower Southwest,66.0,52.0,Outside
-2021-09-01 23:00:00,68.9,51.89,Upper West (Bedroom),66.0,52.0,Outside
-2021-09-01 23:00:00,69.44,56.1,Upper East (Garage),66.0,52.0,Outside
+2021-09-01 23:00:00,72.32,55.1,Backyard,66.0,52.0,Outside
 2021-09-01 23:00:00,64.76,59.0,Lower Southeast,66.0,52.0,Outside
+2021-09-01 23:00:00,64.4,62.2,Lower Southwest,66.0,52.0,Outside
+2021-09-01 23:00:00,69.44,56.1,Upper East (Garage),66.0,52.0,Outside
+2021-09-01 23:00:00,68.9,51.89,Upper West (Bedroom),66.0,52.0,Outside
 2021-09-01 23:00:00,66.0,52.0,Outside,66.0,52.0,Outside
-2021-09-02 00:00:00,72.14,54.9,Backyard,63.0,56.0,Outside
 2021-09-02 00:00:00,63.14,59.1,Lower Northeast,63.0,56.0,Outside
-2021-09-02 00:00:00,64.22,62.7,Lower Southwest,63.0,56.0,Outside
-2021-09-02 00:00:00,68.72,52.99,Upper West (Bedroom),63.0,56.0,Outside
-2021-09-02 00:00:00,69.26,56.8,Upper East (Garage),63.0,56.0,Outside
+2021-09-02 00:00:00,72.14,54.9,Backyard,63.0,56.0,Outside
 2021-09-02 00:00:00,64.4,58.5,Lower Southeast,63.0,56.0,Outside
+2021-09-02 00:00:00,64.22,62.7,Lower Southwest,63.0,56.0,Outside
+2021-09-02 00:00:00,69.26,56.8,Upper East (Garage),63.0,56.0,Outside
+2021-09-02 00:00:00,68.72,52.99,Upper West (Bedroom),63.0,56.0,Outside
 2021-09-02 00:00:00,63.0,56.0,Outside,63.0,56.0,Outside
-2021-09-02 01:00:00,72.14,54.8,Backyard,62.0,56.0,Outside
 2021-09-02 01:00:00,63.14,59.3,Lower Northeast,62.0,56.0,Outside
-2021-09-02 01:00:00,64.22,63.2,Lower Southwest,62.0,56.0,Outside
-2021-09-02 01:00:00,68.54,53.29,Upper West (Bedroom),62.0,56.0,Outside
-2021-09-02 01:00:00,69.26,56.7,Upper East (Garage),62.0,56.0,Outside
+2021-09-02 01:00:00,72.14,54.8,Backyard,62.0,56.0,Outside
 2021-09-02 01:00:00,64.4,58.4,Lower Southeast,62.0,56.0,Outside
+2021-09-02 01:00:00,64.22,63.2,Lower Southwest,62.0,56.0,Outside
+2021-09-02 01:00:00,69.26,56.7,Upper East (Garage),62.0,56.0,Outside
+2021-09-02 01:00:00,68.54,53.29,Upper West (Bedroom),62.0,56.0,Outside
 2021-09-02 01:00:00,62.0,56.0,Outside,62.0,56.0,Outside
-2021-09-02 02:00:00,71.96,54.6,Backyard,62.0,56.0,Outside
 2021-09-02 02:00:00,62.96,58.8,Lower Northeast,62.0,56.0,Outside
-2021-09-02 02:00:00,64.04,62.5,Lower Southwest,62.0,56.0,Outside
-2021-09-02 02:00:00,68.54,54.09,Upper West (Bedroom),62.0,56.0,Outside
-2021-09-02 02:00:00,69.08,56.5,Upper East (Garage),62.0,56.0,Outside
+2021-09-02 02:00:00,71.96,54.6,Backyard,62.0,56.0,Outside
 2021-09-02 02:00:00,64.4,58.5,Lower Southeast,62.0,56.0,Outside
+2021-09-02 02:00:00,64.04,62.5,Lower Southwest,62.0,56.0,Outside
+2021-09-02 02:00:00,69.08,56.5,Upper East (Garage),62.0,56.0,Outside
+2021-09-02 02:00:00,68.54,54.09,Upper West (Bedroom),62.0,56.0,Outside
 2021-09-02 02:00:00,62.0,56.0,Outside,62.0,56.0,Outside
-2021-09-02 03:00:00,71.78,54.5,Backyard,57.0,64.0,Outside
 2021-09-02 03:00:00,62.96,59.7,Lower Northeast,57.0,64.0,Outside
-2021-09-02 03:00:00,64.22,62.6,Lower Southwest,57.0,64.0,Outside
-2021-09-02 03:00:00,68.54,53.59,Upper West (Bedroom),57.0,64.0,Outside
-2021-09-02 03:00:00,69.08,56.4,Upper East (Garage),57.0,64.0,Outside
+2021-09-02 03:00:00,71.78,54.5,Backyard,57.0,64.0,Outside
 2021-09-02 03:00:00,64.22,58.4,Lower Southeast,57.0,64.0,Outside
+2021-09-02 03:00:00,64.22,62.6,Lower Southwest,57.0,64.0,Outside
+2021-09-02 03:00:00,69.08,56.4,Upper East (Garage),57.0,64.0,Outside
+2021-09-02 03:00:00,68.54,53.59,Upper West (Bedroom),57.0,64.0,Outside
 2021-09-02 03:00:00,57.0,64.0,Outside,57.0,64.0,Outside
-2021-09-02 04:00:00,71.78,54.3,Backyard,56.0,69.0,Outside
 2021-09-02 04:00:00,62.78,59.8,Lower Northeast,56.0,69.0,Outside
-2021-09-02 04:00:00,64.04,62.7,Lower Southwest,56.0,69.0,Outside
-2021-09-02 04:00:00,68.36,54.69,Upper West (Bedroom),56.0,69.0,Outside
-2021-09-02 04:00:00,69.08,57.5,Upper East (Garage),56.0,69.0,Outside
+2021-09-02 04:00:00,71.78,54.3,Backyard,56.0,69.0,Outside
 2021-09-02 04:00:00,64.22,58.4,Lower Southeast,56.0,69.0,Outside
+2021-09-02 04:00:00,64.04,62.7,Lower Southwest,56.0,69.0,Outside
+2021-09-02 04:00:00,69.08,57.5,Upper East (Garage),56.0,69.0,Outside
+2021-09-02 04:00:00,68.36,54.69,Upper West (Bedroom),56.0,69.0,Outside
 2021-09-02 04:00:00,56.0,69.0,Outside,56.0,69.0,Outside
-2021-09-02 05:00:00,71.6,54.2,Backyard,58.0,65.0,Outside
 2021-09-02 05:00:00,62.6,59.7,Lower Northeast,58.0,65.0,Outside
-2021-09-02 05:00:00,64.04,62.8,Lower Southwest,58.0,65.0,Outside
-2021-09-02 05:00:00,68.18,54.89,Upper West (Bedroom),58.0,65.0,Outside
-2021-09-02 05:00:00,69.08,57.0,Upper East (Garage),58.0,65.0,Outside
+2021-09-02 05:00:00,71.6,54.2,Backyard,58.0,65.0,Outside
 2021-09-02 05:00:00,64.22,58.7,Lower Southeast,58.0,65.0,Outside
+2021-09-02 05:00:00,64.04,62.8,Lower Southwest,58.0,65.0,Outside
+2021-09-02 05:00:00,69.08,57.0,Upper East (Garage),58.0,65.0,Outside
+2021-09-02 05:00:00,68.18,54.89,Upper West (Bedroom),58.0,65.0,Outside
 2021-09-02 05:00:00,58.0,65.0,Outside,58.0,65.0,Outside
-2021-09-02 06:00:00,71.6,54.2,Backyard,56.0,72.0,Outside
 2021-09-02 06:00:00,62.42,60.5,Lower Northeast,56.0,72.0,Outside
-2021-09-02 06:00:00,64.04,63.2,Lower Southwest,56.0,72.0,Outside
-2021-09-02 06:00:00,68.18,55.29,Upper West (Bedroom),56.0,72.0,Outside
-2021-09-02 06:00:00,68.9,57.7,Upper East (Garage),56.0,72.0,Outside
+2021-09-02 06:00:00,71.6,54.2,Backyard,56.0,72.0,Outside
 2021-09-02 06:00:00,64.58,58.9,Lower Southeast,56.0,72.0,Outside
+2021-09-02 06:00:00,64.04,63.2,Lower Southwest,56.0,72.0,Outside
+2021-09-02 06:00:00,68.9,57.7,Upper East (Garage),56.0,72.0,Outside
+2021-09-02 06:00:00,68.18,55.29,Upper West (Bedroom),56.0,72.0,Outside
 2021-09-02 06:00:00,56.0,72.0,Outside,56.0,72.0,Outside
-2021-09-02 07:00:00,71.24,54.2,Backyard,54.0,77.0,Outside
 2021-09-02 07:00:00,62.42,61.3,Lower Northeast,54.0,77.0,Outside
-2021-09-02 07:00:00,64.04,63.2,Lower Southwest,54.0,77.0,Outside
-2021-09-02 07:00:00,68.36,56.09,Upper West (Bedroom),54.0,77.0,Outside
-2021-09-02 07:00:00,68.9,57.2,Upper East (Garage),54.0,77.0,Outside
+2021-09-02 07:00:00,71.24,54.2,Backyard,54.0,77.0,Outside
 2021-09-02 07:00:00,64.4,58.8,Lower Southeast,54.0,77.0,Outside
+2021-09-02 07:00:00,64.04,63.2,Lower Southwest,54.0,77.0,Outside
+2021-09-02 07:00:00,68.9,57.2,Upper East (Garage),54.0,77.0,Outside
+2021-09-02 07:00:00,68.36,56.09,Upper West (Bedroom),54.0,77.0,Outside
 2021-09-02 07:00:00,54.0,77.0,Outside,54.0,77.0,Outside
-2021-09-02 08:00:00,71.6,56.0,Backyard,56.0,72.0,Outside
 2021-09-02 08:00:00,62.42,62.0,Lower Northeast,56.0,72.0,Outside
-2021-09-02 08:00:00,64.04,63.3,Lower Southwest,56.0,72.0,Outside
-2021-09-02 08:00:00,68.18,55.69,Upper West (Bedroom),56.0,72.0,Outside
-2021-09-02 08:00:00,68.9,58.4,Upper East (Garage),56.0,72.0,Outside
+2021-09-02 08:00:00,71.6,56.0,Backyard,56.0,72.0,Outside
 2021-09-02 08:00:00,64.4,59.2,Lower Southeast,56.0,72.0,Outside
+2021-09-02 08:00:00,64.04,63.3,Lower Southwest,56.0,72.0,Outside
+2021-09-02 08:00:00,68.9,58.4,Upper East (Garage),56.0,72.0,Outside
+2021-09-02 08:00:00,68.18,55.69,Upper West (Bedroom),56.0,72.0,Outside
 2021-09-02 08:00:00,56.0,72.0,Outside,56.0,72.0,Outside
-2021-09-02 09:00:00,71.6,56.1,Backyard,59.0,64.0,Outside
 2021-09-02 09:00:00,62.6,62.5,Lower Northeast,59.0,64.0,Outside
-2021-09-02 09:00:00,64.22,63.7,Lower Southwest,59.0,64.0,Outside
-2021-09-02 09:00:00,68.18,56.09,Upper West (Bedroom),59.0,64.0,Outside
-2021-09-02 09:00:00,68.72,58.0,Upper East (Garage),59.0,64.0,Outside
+2021-09-02 09:00:00,71.6,56.1,Backyard,59.0,64.0,Outside
 2021-09-02 09:00:00,64.76,60.2,Lower Southeast,59.0,64.0,Outside
+2021-09-02 09:00:00,64.22,63.7,Lower Southwest,59.0,64.0,Outside
+2021-09-02 09:00:00,68.72,58.0,Upper East (Garage),59.0,64.0,Outside
+2021-09-02 09:00:00,68.18,56.09,Upper West (Bedroom),59.0,64.0,Outside
 2021-09-02 09:00:00,59.0,64.0,Outside,59.0,64.0,Outside
-2021-09-02 10:00:00,71.24,54.9,Backyard,64.0,54.0,Outside
 2021-09-02 10:00:00,62.6,62.8,Lower Northeast,64.0,54.0,Outside
-2021-09-02 10:00:00,64.22,64.5,Lower Southwest,64.0,54.0,Outside
-2021-09-02 10:00:00,68.36,56.79,Upper West (Bedroom),64.0,54.0,Outside
-2021-09-02 10:00:00,68.9,58.7,Upper East (Garage),64.0,54.0,Outside
+2021-09-02 10:00:00,71.24,54.9,Backyard,64.0,54.0,Outside
 2021-09-02 10:00:00,64.58,62.1,Lower Southeast,64.0,54.0,Outside
+2021-09-02 10:00:00,64.22,64.5,Lower Southwest,64.0,54.0,Outside
+2021-09-02 10:00:00,68.9,58.7,Upper East (Garage),64.0,54.0,Outside
+2021-09-02 10:00:00,68.36,56.79,Upper West (Bedroom),64.0,54.0,Outside
 2021-09-02 10:00:00,64.0,54.0,Outside,64.0,54.0,Outside
-2021-09-02 11:00:00,71.24,55.0,Backyard,69.0,45.0,Outside
 2021-09-02 11:00:00,62.96,64.4,Lower Northeast,69.0,45.0,Outside
-2021-09-02 11:00:00,64.22,65.5,Lower Southwest,69.0,45.0,Outside
-2021-09-02 11:00:00,68.36,55.99,Upper West (Bedroom),69.0,45.0,Outside
-2021-09-02 11:00:00,68.9,60.6,Upper East (Garage),69.0,45.0,Outside
+2021-09-02 11:00:00,71.24,55.0,Backyard,69.0,45.0,Outside
 2021-09-02 11:00:00,64.4,62.9,Lower Southeast,69.0,45.0,Outside
+2021-09-02 11:00:00,64.22,65.5,Lower Southwest,69.0,45.0,Outside
+2021-09-02 11:00:00,68.9,60.6,Upper East (Garage),69.0,45.0,Outside
+2021-09-02 11:00:00,68.36,55.99,Upper West (Bedroom),69.0,45.0,Outside
 2021-09-02 11:00:00,69.0,45.0,Outside,69.0,45.0,Outside
-2021-09-02 12:00:00,71.42,54.9,Backyard,72.0,41.0,Outside
 2021-09-02 12:00:00,63.32,63.9,Lower Northeast,72.0,41.0,Outside
-2021-09-02 12:00:00,64.22,66.9,Lower Southwest,72.0,41.0,Outside
-2021-09-02 12:00:00,68.9,56.19,Upper West (Bedroom),72.0,41.0,Outside
-2021-09-02 12:00:00,69.08,59.4,Upper East (Garage),72.0,41.0,Outside
+2021-09-02 12:00:00,71.42,54.9,Backyard,72.0,41.0,Outside
 2021-09-02 12:00:00,64.4,63.2,Lower Southeast,72.0,41.0,Outside
+2021-09-02 12:00:00,64.22,66.9,Lower Southwest,72.0,41.0,Outside
+2021-09-02 12:00:00,69.08,59.4,Upper East (Garage),72.0,41.0,Outside
+2021-09-02 12:00:00,68.9,56.19,Upper West (Bedroom),72.0,41.0,Outside
 2021-09-02 12:00:00,72.0,41.0,Outside,72.0,41.0,Outside
-2021-09-02 13:00:00,71.78,55.0,Backyard,77.0,33.0,Outside
 2021-09-02 13:00:00,63.68,64.4,Lower Northeast,77.0,33.0,Outside
-2021-09-02 13:00:00,64.4,67.9,Lower Southwest,77.0,33.0,Outside
-2021-09-02 13:00:00,69.08,55.49,Upper West (Bedroom),77.0,33.0,Outside
-2021-09-02 13:00:00,69.26,57.8,Upper East (Garage),77.0,33.0,Outside
+2021-09-02 13:00:00,71.78,55.0,Backyard,77.0,33.0,Outside
 2021-09-02 13:00:00,64.76,63.4,Lower Southeast,77.0,33.0,Outside
+2021-09-02 13:00:00,64.4,67.9,Lower Southwest,77.0,33.0,Outside
+2021-09-02 13:00:00,69.26,57.8,Upper East (Garage),77.0,33.0,Outside
+2021-09-02 13:00:00,69.08,55.49,Upper West (Bedroom),77.0,33.0,Outside
 2021-09-02 13:00:00,77.0,33.0,Outside,77.0,33.0,Outside
-2021-09-02 14:00:00,71.96,54.9,Backyard,81.0,27.0,Outside
 2021-09-02 14:00:00,64.22,60.5,Lower Northeast,81.0,27.0,Outside
-2021-09-02 14:00:00,64.4,70.5,Lower Southwest,81.0,27.0,Outside
-2021-09-02 14:00:00,69.8,54.59,Upper West (Bedroom),81.0,27.0,Outside
-2021-09-02 14:00:00,69.44,57.4,Upper East (Garage),81.0,27.0,Outside
+2021-09-02 14:00:00,71.96,54.9,Backyard,81.0,27.0,Outside
 2021-09-02 14:00:00,64.58,64.0,Lower Southeast,81.0,27.0,Outside
+2021-09-02 14:00:00,64.4,70.5,Lower Southwest,81.0,27.0,Outside
+2021-09-02 14:00:00,69.44,57.4,Upper East (Garage),81.0,27.0,Outside
+2021-09-02 14:00:00,69.8,54.59,Upper West (Bedroom),81.0,27.0,Outside
 2021-09-02 14:00:00,81.0,27.0,Outside,81.0,27.0,Outside
-2021-09-02 15:00:00,72.32,54.5,Backyard,83.0,24.0,Outside
 2021-09-02 15:00:00,64.94,57.5,Lower Northeast,83.0,24.0,Outside
-2021-09-02 15:00:00,64.4,69.6,Lower Southwest,83.0,24.0,Outside
-2021-09-02 15:00:00,69.8,52.99,Upper West (Bedroom),83.0,24.0,Outside
-2021-09-02 15:00:00,69.44,55.5,Upper East (Garage),83.0,24.0,Outside
+2021-09-02 15:00:00,72.32,54.5,Backyard,83.0,24.0,Outside
 2021-09-02 15:00:00,64.58,63.1,Lower Southeast,83.0,24.0,Outside
+2021-09-02 15:00:00,64.4,69.6,Lower Southwest,83.0,24.0,Outside
+2021-09-02 15:00:00,69.44,55.5,Upper East (Garage),83.0,24.0,Outside
+2021-09-02 15:00:00,69.8,52.99,Upper West (Bedroom),83.0,24.0,Outside
 2021-09-02 15:00:00,83.0,24.0,Outside,83.0,24.0,Outside
-2021-09-02 16:00:00,72.68,54.2,Backyard,84.0,23.0,Outside
 2021-09-02 16:00:00,65.12,56.9,Lower Northeast,84.0,23.0,Outside
-2021-09-02 16:00:00,64.4,68.7,Lower Southwest,84.0,23.0,Outside
-2021-09-02 16:00:00,70.16,52.29,Upper West (Bedroom),84.0,23.0,Outside
-2021-09-02 16:00:00,69.62,53.6,Upper East (Garage),84.0,23.0,Outside
+2021-09-02 16:00:00,72.68,54.2,Backyard,84.0,23.0,Outside
 2021-09-02 16:00:00,64.4,62.4,Lower Southeast,84.0,23.0,Outside
+2021-09-02 16:00:00,64.4,68.7,Lower Southwest,84.0,23.0,Outside
+2021-09-02 16:00:00,69.62,53.6,Upper East (Garage),84.0,23.0,Outside
+2021-09-02 16:00:00,70.16,52.29,Upper West (Bedroom),84.0,23.0,Outside
 2021-09-02 16:00:00,84.0,23.0,Outside,84.0,23.0,Outside
-2021-09-02 17:00:00,73.04,54.2,Backyard,85.0,22.0,Outside
 2021-09-02 17:00:00,65.12,57.7,Lower Northeast,85.0,22.0,Outside
-2021-09-02 17:00:00,64.4,68.4,Lower Southwest,85.0,22.0,Outside
-2021-09-02 17:00:00,70.34,52.19,Upper West (Bedroom),85.0,22.0,Outside
-2021-09-02 17:00:00,69.8,53.6,Upper East (Garage),85.0,22.0,Outside
+2021-09-02 17:00:00,73.04,54.2,Backyard,85.0,22.0,Outside
 2021-09-02 17:00:00,64.4,62.3,Lower Southeast,85.0,22.0,Outside
+2021-09-02 17:00:00,64.4,68.4,Lower Southwest,85.0,22.0,Outside
+2021-09-02 17:00:00,69.8,53.6,Upper East (Garage),85.0,22.0,Outside
+2021-09-02 17:00:00,70.34,52.19,Upper West (Bedroom),85.0,22.0,Outside
 2021-09-02 17:00:00,85.0,22.0,Outside,85.0,22.0,Outside
-2021-09-02 18:00:00,73.22,54.3,Backyard,85.0,23.0,Outside
 2021-09-02 18:00:00,65.12,56.6,Lower Northeast,85.0,23.0,Outside
-2021-09-02 18:00:00,64.58,72.6,Lower Southwest,85.0,23.0,Outside
-2021-09-02 18:00:00,70.52,51.79,Upper West (Bedroom),85.0,23.0,Outside
-2021-09-02 18:00:00,69.8,54.6,Upper East (Garage),85.0,23.0,Outside
+2021-09-02 18:00:00,73.22,54.3,Backyard,85.0,23.0,Outside
 2021-09-02 18:00:00,64.58,63.0,Lower Southeast,85.0,23.0,Outside
+2021-09-02 18:00:00,64.58,72.6,Lower Southwest,85.0,23.0,Outside
+2021-09-02 18:00:00,69.8,54.6,Upper East (Garage),85.0,23.0,Outside
+2021-09-02 18:00:00,70.52,51.79,Upper West (Bedroom),85.0,23.0,Outside
 2021-09-02 18:00:00,85.0,23.0,Outside,85.0,23.0,Outside
-2021-09-02 19:00:00,72.14,51.5,Backyard,82.0,23.0,Outside
 2021-09-02 19:00:00,65.12,59.2,Lower Northeast,82.0,23.0,Outside
-2021-09-02 19:00:00,64.58,72.7,Lower Southwest,82.0,23.0,Outside
-2021-09-02 19:00:00,70.34,51.99,Upper West (Bedroom),82.0,23.0,Outside
-2021-09-02 19:00:00,69.98,55.0,Upper East (Garage),82.0,23.0,Outside
+2021-09-02 19:00:00,72.14,51.5,Backyard,82.0,23.0,Outside
 2021-09-02 19:00:00,64.58,63.4,Lower Southeast,82.0,23.0,Outside
+2021-09-02 19:00:00,64.58,72.7,Lower Southwest,82.0,23.0,Outside
+2021-09-02 19:00:00,69.98,55.0,Upper East (Garage),82.0,23.0,Outside
+2021-09-02 19:00:00,70.34,51.99,Upper West (Bedroom),82.0,23.0,Outside
 2021-09-02 19:00:00,82.0,23.0,Outside,82.0,23.0,Outside
-2021-09-02 20:00:00,71.78,51.1,Backyard,78.0,30.0,Outside
 2021-09-02 20:00:00,64.94,55.8,Lower Northeast,78.0,30.0,Outside
-2021-09-02 20:00:00,64.58,72.4,Lower Southwest,78.0,30.0,Outside
-2021-09-02 20:00:00,70.34,51.19,Upper West (Bedroom),78.0,30.0,Outside
-2021-09-02 20:00:00,69.98,55.4,Upper East (Garage),78.0,30.0,Outside
+2021-09-02 20:00:00,71.78,51.1,Backyard,78.0,30.0,Outside
 2021-09-02 20:00:00,64.58,63.7,Lower Southeast,78.0,30.0,Outside
+2021-09-02 20:00:00,64.58,72.4,Lower Southwest,78.0,30.0,Outside
+2021-09-02 20:00:00,69.98,55.4,Upper East (Garage),78.0,30.0,Outside
+2021-09-02 20:00:00,70.34,51.19,Upper West (Bedroom),78.0,30.0,Outside
 2021-09-02 20:00:00,78.0,30.0,Outside,78.0,30.0,Outside
-2021-09-02 21:00:00,71.6,55.1,Backyard,75.0,37.0,Outside
 2021-09-02 21:00:00,64.94,56.2,Lower Northeast,75.0,37.0,Outside
-2021-09-02 21:00:00,64.58,70.9,Lower Southwest,75.0,37.0,Outside
-2021-09-02 21:00:00,70.16,51.39,Upper West (Bedroom),75.0,37.0,Outside
-2021-09-02 21:00:00,69.98,56.0,Upper East (Garage),75.0,37.0,Outside
+2021-09-02 21:00:00,71.6,55.1,Backyard,75.0,37.0,Outside
 2021-09-02 21:00:00,64.76,62.9,Lower Southeast,75.0,37.0,Outside
+2021-09-02 21:00:00,64.58,70.9,Lower Southwest,75.0,37.0,Outside
+2021-09-02 21:00:00,69.98,56.0,Upper East (Garage),75.0,37.0,Outside
+2021-09-02 21:00:00,70.16,51.39,Upper West (Bedroom),75.0,37.0,Outside
 2021-09-02 21:00:00,75.0,37.0,Outside,75.0,37.0,Outside
-2021-09-02 22:00:00,71.6,55.4,Backyard,72.0,46.0,Outside
 2021-09-02 22:00:00,64.76,56.7,Lower Northeast,72.0,46.0,Outside
-2021-09-02 22:00:00,64.4,69.0,Lower Southwest,72.0,46.0,Outside
-2021-09-02 22:00:00,69.98,52.09,Upper West (Bedroom),72.0,46.0,Outside
-2021-09-02 22:00:00,70.16,55.5,Upper East (Garage),72.0,46.0,Outside
+2021-09-02 22:00:00,71.6,55.4,Backyard,72.0,46.0,Outside
 2021-09-02 22:00:00,64.58,62.3,Lower Southeast,72.0,46.0,Outside
+2021-09-02 22:00:00,64.4,69.0,Lower Southwest,72.0,46.0,Outside
+2021-09-02 22:00:00,70.16,55.5,Upper East (Garage),72.0,46.0,Outside
+2021-09-02 22:00:00,69.98,52.09,Upper West (Bedroom),72.0,46.0,Outside
 2021-09-02 22:00:00,72.0,46.0,Outside,72.0,46.0,Outside
-2021-09-02 23:00:00,71.6,55.5,Backyard,70.0,49.0,Outside
 2021-09-02 23:00:00,64.58,57.4,Lower Northeast,70.0,49.0,Outside
-2021-09-02 23:00:00,64.4,69.6,Lower Southwest,70.0,49.0,Outside
-2021-09-02 23:00:00,69.98,54.69,Upper West (Bedroom),70.0,49.0,Outside
-2021-09-02 23:00:00,70.16,57.5,Upper East (Garage),70.0,49.0,Outside
+2021-09-02 23:00:00,71.6,55.5,Backyard,70.0,49.0,Outside
 2021-09-02 23:00:00,64.58,62.4,Lower Southeast,70.0,49.0,Outside
+2021-09-02 23:00:00,64.4,69.6,Lower Southwest,70.0,49.0,Outside
+2021-09-02 23:00:00,70.16,57.5,Upper East (Garage),70.0,49.0,Outside
+2021-09-02 23:00:00,69.98,54.69,Upper West (Bedroom),70.0,49.0,Outside
 2021-09-02 23:00:00,70.0,49.0,Outside,70.0,49.0,Outside
-2021-09-03 00:00:00,71.42,55.7,Backyard,68.0,55.0,Outside
 2021-09-03 00:00:00,64.22,58.9,Lower Northeast,68.0,55.0,Outside
-2021-09-03 00:00:00,64.4,70.4,Lower Southwest,68.0,55.0,Outside
-2021-09-03 00:00:00,69.8,53.19,Upper West (Bedroom),68.0,55.0,Outside
-2021-09-03 00:00:00,70.16,57.3,Upper East (Garage),68.0,55.0,Outside
+2021-09-03 00:00:00,71.42,55.7,Backyard,68.0,55.0,Outside
 2021-09-03 00:00:00,64.4,62.8,Lower Southeast,68.0,55.0,Outside
+2021-09-03 00:00:00,64.4,70.4,Lower Southwest,68.0,55.0,Outside
+2021-09-03 00:00:00,70.16,57.3,Upper East (Garage),68.0,55.0,Outside
+2021-09-03 00:00:00,69.8,53.19,Upper West (Bedroom),68.0,55.0,Outside
 2021-09-03 00:00:00,68.0,55.0,Outside,68.0,55.0,Outside
-2021-09-03 01:00:00,71.24,54.5,Backyard,65.0,56.0,Outside
 2021-09-03 01:00:00,64.04,59.1,Lower Northeast,65.0,56.0,Outside
-2021-09-03 01:00:00,64.4,68.1,Lower Southwest,65.0,56.0,Outside
-2021-09-03 01:00:00,69.8,55.29,Upper West (Bedroom),65.0,56.0,Outside
-2021-09-03 01:00:00,70.16,57.6,Upper East (Garage),65.0,56.0,Outside
+2021-09-03 01:00:00,71.24,54.5,Backyard,65.0,56.0,Outside
 2021-09-03 01:00:00,64.4,63.0,Lower Southeast,65.0,56.0,Outside
+2021-09-03 01:00:00,64.4,68.1,Lower Southwest,65.0,56.0,Outside
+2021-09-03 01:00:00,70.16,57.6,Upper East (Garage),65.0,56.0,Outside
+2021-09-03 01:00:00,69.8,55.29,Upper West (Bedroom),65.0,56.0,Outside
 2021-09-03 01:00:00,65.0,56.0,Outside,65.0,56.0,Outside
-2021-09-03 02:00:00,71.24,53.3,Backyard,64.0,58.0,Outside
 2021-09-03 02:00:00,63.5,58.8,Lower Northeast,64.0,58.0,Outside
-2021-09-03 02:00:00,64.22,66.8,Lower Southwest,64.0,58.0,Outside
-2021-09-03 02:00:00,69.44,54.29,Upper West (Bedroom),64.0,58.0,Outside
-2021-09-03 02:00:00,69.98,56.2,Upper East (Garage),64.0,58.0,Outside
+2021-09-03 02:00:00,71.24,53.3,Backyard,64.0,58.0,Outside
 2021-09-03 02:00:00,64.22,63.4,Lower Southeast,64.0,58.0,Outside
+2021-09-03 02:00:00,64.22,66.8,Lower Southwest,64.0,58.0,Outside
+2021-09-03 02:00:00,69.98,56.2,Upper East (Garage),64.0,58.0,Outside
+2021-09-03 02:00:00,69.44,54.29,Upper West (Bedroom),64.0,58.0,Outside
 2021-09-03 02:00:00,64.0,58.0,Outside,64.0,58.0,Outside
-2021-09-03 03:00:00,71.24,53.4,Backyard,62.0,65.0,Outside
 2021-09-03 03:00:00,63.14,59.1,Lower Northeast,62.0,65.0,Outside
-2021-09-03 03:00:00,64.04,66.0,Lower Southwest,62.0,65.0,Outside
-2021-09-03 03:00:00,69.26,54.39,Upper West (Bedroom),62.0,65.0,Outside
-2021-09-03 03:00:00,69.98,55.6,Upper East (Garage),62.0,65.0,Outside
+2021-09-03 03:00:00,71.24,53.4,Backyard,62.0,65.0,Outside
 2021-09-03 03:00:00,64.22,61.2,Lower Southeast,62.0,65.0,Outside
+2021-09-03 03:00:00,64.04,66.0,Lower Southwest,62.0,65.0,Outside
+2021-09-03 03:00:00,69.98,55.6,Upper East (Garage),62.0,65.0,Outside
+2021-09-03 03:00:00,69.26,54.39,Upper West (Bedroom),62.0,65.0,Outside
 2021-09-03 03:00:00,62.0,65.0,Outside,62.0,65.0,Outside
-2021-09-03 04:00:00,71.06,52.8,Backyard,58.0,70.0,Outside
 2021-09-03 04:00:00,62.96,59.7,Lower Northeast,58.0,70.0,Outside
-2021-09-03 04:00:00,64.04,66.2,Lower Southwest,58.0,70.0,Outside
-2021-09-03 04:00:00,69.08,53.89,Upper West (Bedroom),58.0,70.0,Outside
-2021-09-03 04:00:00,69.98,55.7,Upper East (Garage),58.0,70.0,Outside
+2021-09-03 04:00:00,71.06,52.8,Backyard,58.0,70.0,Outside
 2021-09-03 04:00:00,64.22,60.5,Lower Southeast,58.0,70.0,Outside
+2021-09-03 04:00:00,64.04,66.2,Lower Southwest,58.0,70.0,Outside
+2021-09-03 04:00:00,69.98,55.7,Upper East (Garage),58.0,70.0,Outside
+2021-09-03 04:00:00,69.08,53.89,Upper West (Bedroom),58.0,70.0,Outside
 2021-09-03 04:00:00,58.0,70.0,Outside,58.0,70.0,Outside
-2021-09-03 05:00:00,70.88,52.3,Backyard,56.0,72.0,Outside
 2021-09-03 05:00:00,62.78,59.5,Lower Northeast,56.0,72.0,Outside
-2021-09-03 05:00:00,64.04,65.6,Lower Southwest,56.0,72.0,Outside
-2021-09-03 05:00:00,69.08,55.39,Upper West (Bedroom),56.0,72.0,Outside
-2021-09-03 05:00:00,69.8,55.6,Upper East (Garage),56.0,72.0,Outside
+2021-09-03 05:00:00,70.88,52.3,Backyard,56.0,72.0,Outside
 2021-09-03 05:00:00,64.22,60.1,Lower Southeast,56.0,72.0,Outside
+2021-09-03 05:00:00,64.04,65.6,Lower Southwest,56.0,72.0,Outside
+2021-09-03 05:00:00,69.8,55.6,Upper East (Garage),56.0,72.0,Outside
+2021-09-03 05:00:00,69.08,55.39,Upper West (Bedroom),56.0,72.0,Outside
 2021-09-03 05:00:00,56.0,72.0,Outside,56.0,72.0,Outside
-2021-09-03 06:00:00,70.7,52.1,Backyard,54.0,75.0,Outside
 2021-09-03 06:00:00,62.6,60.5,Lower Northeast,54.0,75.0,Outside
-2021-09-03 06:00:00,64.04,65.2,Lower Southwest,54.0,75.0,Outside
-2021-09-03 06:00:00,68.9,54.99,Upper West (Bedroom),54.0,75.0,Outside
-2021-09-03 06:00:00,69.8,56.1,Upper East (Garage),54.0,75.0,Outside
+2021-09-03 06:00:00,70.7,52.1,Backyard,54.0,75.0,Outside
 2021-09-03 06:00:00,64.22,59.7,Lower Southeast,54.0,75.0,Outside
+2021-09-03 06:00:00,64.04,65.2,Lower Southwest,54.0,75.0,Outside
+2021-09-03 06:00:00,69.8,56.1,Upper East (Garage),54.0,75.0,Outside
+2021-09-03 06:00:00,68.9,54.99,Upper West (Bedroom),54.0,75.0,Outside
 2021-09-03 06:00:00,54.0,75.0,Outside,54.0,75.0,Outside
-2021-09-03 07:00:00,70.52,51.8,Backyard,54.0,80.0,Outside
 2021-09-03 07:00:00,62.96,60.8,Lower Northeast,54.0,80.0,Outside
-2021-09-03 07:00:00,64.04,65.4,Lower Southwest,54.0,80.0,Outside
-2021-09-03 07:00:00,68.72,55.39,Upper West (Bedroom),54.0,80.0,Outside
-2021-09-03 07:00:00,69.8,56.9,Upper East (Garage),54.0,80.0,Outside
+2021-09-03 07:00:00,70.52,51.8,Backyard,54.0,80.0,Outside
 2021-09-03 07:00:00,64.22,60.3,Lower Southeast,54.0,80.0,Outside
+2021-09-03 07:00:00,64.04,65.4,Lower Southwest,54.0,80.0,Outside
+2021-09-03 07:00:00,69.8,56.9,Upper East (Garage),54.0,80.0,Outside
+2021-09-03 07:00:00,68.72,55.39,Upper West (Bedroom),54.0,80.0,Outside
 2021-09-03 07:00:00,54.0,80.0,Outside,54.0,80.0,Outside
-2021-09-03 08:00:00,70.52,52.1,Backyard,58.0,75.0,Outside
 2021-09-03 08:00:00,63.14,60.6,Lower Northeast,58.0,75.0,Outside
-2021-09-03 08:00:00,64.04,65.8,Lower Southwest,58.0,75.0,Outside
-2021-09-03 08:00:00,68.9,56.59,Upper West (Bedroom),58.0,75.0,Outside
-2021-09-03 08:00:00,69.8,57.0,Upper East (Garage),58.0,75.0,Outside
+2021-09-03 08:00:00,70.52,52.1,Backyard,58.0,75.0,Outside
 2021-09-03 08:00:00,64.22,62.2,Lower Southeast,58.0,75.0,Outside
+2021-09-03 08:00:00,64.04,65.8,Lower Southwest,58.0,75.0,Outside
+2021-09-03 08:00:00,69.8,57.0,Upper East (Garage),58.0,75.0,Outside
+2021-09-03 08:00:00,68.9,56.59,Upper West (Bedroom),58.0,75.0,Outside
 2021-09-03 08:00:00,58.0,75.0,Outside,58.0,75.0,Outside
-2021-09-03 09:00:00,70.88,56.1,Backyard,62.0,62.0,Outside
 2021-09-03 09:00:00,63.14,62.6,Lower Northeast,62.0,62.0,Outside
-2021-09-03 09:00:00,64.04,66.8,Lower Southwest,62.0,62.0,Outside
-2021-09-03 09:00:00,68.9,56.89,Upper West (Bedroom),62.0,62.0,Outside
-2021-09-03 09:00:00,69.8,58.0,Upper East (Garage),62.0,62.0,Outside
+2021-09-03 09:00:00,70.88,56.1,Backyard,62.0,62.0,Outside
 2021-09-03 09:00:00,64.22,63.1,Lower Southeast,62.0,62.0,Outside
+2021-09-03 09:00:00,64.04,66.8,Lower Southwest,62.0,62.0,Outside
+2021-09-03 09:00:00,69.8,58.0,Upper East (Garage),62.0,62.0,Outside
+2021-09-03 09:00:00,68.9,56.89,Upper West (Bedroom),62.0,62.0,Outside
 2021-09-03 09:00:00,62.0,62.0,Outside,62.0,62.0,Outside
-2021-09-03 10:00:00,68.36,51.3,Backyard,64.0,56.0,Outside
 2021-09-03 10:00:00,63.5,63.4,Lower Northeast,64.0,56.0,Outside
-2021-09-03 10:00:00,64.58,67.0,Lower Southwest,64.0,56.0,Outside
-2021-09-03 10:00:00,68.9,55.89,Upper West (Bedroom),64.0,56.0,Outside
-2021-09-03 10:00:00,69.8,58.5,Upper East (Garage),64.0,56.0,Outside
+2021-09-03 10:00:00,68.36,51.3,Backyard,64.0,56.0,Outside
 2021-09-03 10:00:00,64.4,64.5,Lower Southeast,64.0,56.0,Outside
+2021-09-03 10:00:00,64.58,67.0,Lower Southwest,64.0,56.0,Outside
+2021-09-03 10:00:00,69.8,58.5,Upper East (Garage),64.0,56.0,Outside
+2021-09-03 10:00:00,68.9,55.89,Upper West (Bedroom),64.0,56.0,Outside
 2021-09-03 10:00:00,64.0,56.0,Outside,64.0,56.0,Outside
-2021-09-03 11:00:00,69.44,54.6,Backyard,68.0,50.0,Outside
 2021-09-03 11:00:00,63.5,63.2,Lower Northeast,68.0,50.0,Outside
-2021-09-03 11:00:00,64.58,66.9,Lower Southwest,68.0,50.0,Outside
-2021-09-03 11:00:00,69.08,56.19,Upper West (Bedroom),68.0,50.0,Outside
-2021-09-03 11:00:00,69.98,58.2,Upper East (Garage),68.0,50.0,Outside
+2021-09-03 11:00:00,69.44,54.6,Backyard,68.0,50.0,Outside
 2021-09-03 11:00:00,64.58,64.1,Lower Southeast,68.0,50.0,Outside
+2021-09-03 11:00:00,64.58,66.9,Lower Southwest,68.0,50.0,Outside
+2021-09-03 11:00:00,69.98,58.2,Upper East (Garage),68.0,50.0,Outside
+2021-09-03 11:00:00,69.08,56.19,Upper West (Bedroom),68.0,50.0,Outside
 2021-09-03 11:00:00,68.0,50.0,Outside,68.0,50.0,Outside
-2021-09-03 12:00:00,69.98,54.4,Backyard,73.0,41.0,Outside
 2021-09-03 12:00:00,63.86,62.6,Lower Northeast,73.0,41.0,Outside
-2021-09-03 12:00:00,64.4,68.9,Lower Southwest,73.0,41.0,Outside
-2021-09-03 12:00:00,69.44,55.69,Upper West (Bedroom),73.0,41.0,Outside
-2021-09-03 12:00:00,70.16,57.6,Upper East (Garage),73.0,41.0,Outside
+2021-09-03 12:00:00,69.98,54.4,Backyard,73.0,41.0,Outside
 2021-09-03 12:00:00,64.4,64.4,Lower Southeast,73.0,41.0,Outside
+2021-09-03 12:00:00,64.4,68.9,Lower Southwest,73.0,41.0,Outside
+2021-09-03 12:00:00,70.16,57.6,Upper East (Garage),73.0,41.0,Outside
+2021-09-03 12:00:00,69.44,55.69,Upper West (Bedroom),73.0,41.0,Outside
 2021-09-03 12:00:00,73.0,41.0,Outside,73.0,41.0,Outside
-2021-09-03 13:00:00,70.52,54.1,Backyard,76.0,36.0,Outside
 2021-09-03 13:00:00,64.4,64.2,Lower Northeast,76.0,36.0,Outside
-2021-09-03 13:00:00,64.58,71.7,Lower Southwest,76.0,36.0,Outside
-2021-09-03 13:00:00,69.8,56.89,Upper West (Bedroom),76.0,36.0,Outside
-2021-09-03 13:00:00,70.16,57.9,Upper East (Garage),76.0,36.0,Outside
+2021-09-03 13:00:00,70.52,54.1,Backyard,76.0,36.0,Outside
 2021-09-03 13:00:00,64.4,64.5,Lower Southeast,76.0,36.0,Outside
+2021-09-03 13:00:00,64.58,71.7,Lower Southwest,76.0,36.0,Outside
+2021-09-03 13:00:00,70.16,57.9,Upper East (Garage),76.0,36.0,Outside
+2021-09-03 13:00:00,69.8,56.89,Upper West (Bedroom),76.0,36.0,Outside
 2021-09-03 13:00:00,76.0,36.0,Outside,76.0,36.0,Outside
-2021-09-03 14:00:00,70.7,54.8,Backyard,76.0,36.0,Outside
 2021-09-03 14:00:00,64.58,62.7,Lower Northeast,76.0,36.0,Outside
-2021-09-03 14:00:00,64.4,70.3,Lower Southwest,76.0,36.0,Outside
-2021-09-03 14:00:00,69.8,56.29,Upper West (Bedroom),76.0,36.0,Outside
-2021-09-03 14:00:00,70.34,58.4,Upper East (Garage),76.0,36.0,Outside
+2021-09-03 14:00:00,70.7,54.8,Backyard,76.0,36.0,Outside
 2021-09-03 14:00:00,64.4,64.6,Lower Southeast,76.0,36.0,Outside
+2021-09-03 14:00:00,64.4,70.3,Lower Southwest,76.0,36.0,Outside
+2021-09-03 14:00:00,70.34,58.4,Upper East (Garage),76.0,36.0,Outside
+2021-09-03 14:00:00,69.8,56.29,Upper West (Bedroom),76.0,36.0,Outside
 2021-09-03 14:00:00,76.0,36.0,Outside,76.0,36.0,Outside
-2021-09-03 15:00:00,70.52,56.0,Backyard,78.0,31.0,Outside
 2021-09-03 15:00:00,64.76,66.2,Lower Northeast,78.0,31.0,Outside
-2021-09-03 15:00:00,64.58,72.2,Lower Southwest,78.0,31.0,Outside
-2021-09-03 15:00:00,69.98,56.39,Upper West (Bedroom),78.0,31.0,Outside
-2021-09-03 15:00:00,70.34,58.4,Upper East (Garage),78.0,31.0,Outside
+2021-09-03 15:00:00,70.52,56.0,Backyard,78.0,31.0,Outside
 2021-09-03 15:00:00,64.4,65.5,Lower Southeast,78.0,31.0,Outside
+2021-09-03 15:00:00,64.58,72.2,Lower Southwest,78.0,31.0,Outside
+2021-09-03 15:00:00,70.34,58.4,Upper East (Garage),78.0,31.0,Outside
+2021-09-03 15:00:00,69.98,56.39,Upper West (Bedroom),78.0,31.0,Outside
 2021-09-03 15:00:00,78.0,31.0,Outside,78.0,31.0,Outside
-2021-09-03 16:00:00,71.06,55.4,Backyard,82.0,28.0,Outside
 2021-09-03 16:00:00,64.94,66.0,Lower Northeast,82.0,28.0,Outside
-2021-09-03 16:00:00,64.4,72.2,Lower Southwest,82.0,28.0,Outside
-2021-09-03 16:00:00,69.98,56.49,Upper West (Bedroom),82.0,28.0,Outside
-2021-09-03 16:00:00,70.52,58.2,Upper East (Garage),82.0,28.0,Outside
+2021-09-03 16:00:00,71.06,55.4,Backyard,82.0,28.0,Outside
 2021-09-03 16:00:00,64.4,65.7,Lower Southeast,82.0,28.0,Outside
+2021-09-03 16:00:00,64.4,72.2,Lower Southwest,82.0,28.0,Outside
+2021-09-03 16:00:00,70.52,58.2,Upper East (Garage),82.0,28.0,Outside
+2021-09-03 16:00:00,69.98,56.49,Upper West (Bedroom),82.0,28.0,Outside
 2021-09-03 16:00:00,82.0,28.0,Outside,82.0,28.0,Outside
-2021-09-03 17:00:00,71.24,55.0,Backyard,81.0,29.0,Outside
 2021-09-03 17:00:00,65.12,65.0,Lower Northeast,81.0,29.0,Outside
-2021-09-03 17:00:00,64.58,71.5,Lower Southwest,81.0,29.0,Outside
-2021-09-03 17:00:00,70.16,56.39,Upper West (Bedroom),81.0,29.0,Outside
-2021-09-03 17:00:00,70.7,59.1,Upper East (Garage),81.0,29.0,Outside
+2021-09-03 17:00:00,71.24,55.0,Backyard,81.0,29.0,Outside
 2021-09-03 17:00:00,64.58,65.9,Lower Southeast,81.0,29.0,Outside
+2021-09-03 17:00:00,64.58,71.5,Lower Southwest,81.0,29.0,Outside
+2021-09-03 17:00:00,70.7,59.1,Upper East (Garage),81.0,29.0,Outside
+2021-09-03 17:00:00,70.16,56.39,Upper West (Bedroom),81.0,29.0,Outside
 2021-09-03 17:00:00,81.0,29.0,Outside,81.0,29.0,Outside
-2021-09-03 18:00:00,71.42,55.0,Backyard,82.0,24.0,Outside
 2021-09-03 18:00:00,65.12,63.0,Lower Northeast,82.0,24.0,Outside
-2021-09-03 18:00:00,64.4,72.1,Lower Southwest,82.0,24.0,Outside
-2021-09-03 18:00:00,70.34,55.69,Upper West (Bedroom),82.0,24.0,Outside
-2021-09-03 18:00:00,70.7,58.8,Upper East (Garage),82.0,24.0,Outside
+2021-09-03 18:00:00,71.42,55.0,Backyard,82.0,24.0,Outside
 2021-09-03 18:00:00,64.4,65.9,Lower Southeast,82.0,24.0,Outside
+2021-09-03 18:00:00,64.4,72.1,Lower Southwest,82.0,24.0,Outside
+2021-09-03 18:00:00,70.7,58.8,Upper East (Garage),82.0,24.0,Outside
+2021-09-03 18:00:00,70.34,55.69,Upper West (Bedroom),82.0,24.0,Outside
 2021-09-03 18:00:00,82.0,24.0,Outside,82.0,24.0,Outside
-2021-09-03 19:00:00,71.6,55.4,Backyard,83.0,24.0,Outside
 2021-09-03 19:00:00,64.94,61.7,Lower Northeast,83.0,24.0,Outside
-2021-09-03 19:00:00,64.4,74.0,Lower Southwest,83.0,24.0,Outside
-2021-09-03 19:00:00,70.52,55.59,Upper West (Bedroom),83.0,24.0,Outside
-2021-09-03 19:00:00,70.7,58.9,Upper East (Garage),83.0,24.0,Outside
+2021-09-03 19:00:00,71.6,55.4,Backyard,83.0,24.0,Outside
 2021-09-03 19:00:00,64.58,66.5,Lower Southeast,83.0,24.0,Outside
+2021-09-03 19:00:00,64.4,74.0,Lower Southwest,83.0,24.0,Outside
+2021-09-03 19:00:00,70.7,58.9,Upper East (Garage),83.0,24.0,Outside
+2021-09-03 19:00:00,70.52,55.59,Upper West (Bedroom),83.0,24.0,Outside
 2021-09-03 19:00:00,83.0,24.0,Outside,83.0,24.0,Outside
-2021-09-03 20:00:00,71.6,55.8,Backyard,77.0,33.0,Outside
 2021-09-03 20:00:00,64.76,62.6,Lower Northeast,77.0,33.0,Outside
-2021-09-03 20:00:00,64.58,71.7,Lower Southwest,77.0,33.0,Outside
-2021-09-03 20:00:00,70.34,57.39,Upper West (Bedroom),77.0,33.0,Outside
-2021-09-03 20:00:00,70.88,58.9,Upper East (Garage),77.0,33.0,Outside
+2021-09-03 20:00:00,71.6,55.8,Backyard,77.0,33.0,Outside
 2021-09-03 20:00:00,64.4,66.8,Lower Southeast,77.0,33.0,Outside
+2021-09-03 20:00:00,64.58,71.7,Lower Southwest,77.0,33.0,Outside
+2021-09-03 20:00:00,70.88,58.9,Upper East (Garage),77.0,33.0,Outside
+2021-09-03 20:00:00,70.34,57.39,Upper West (Bedroom),77.0,33.0,Outside
 2021-09-03 20:00:00,77.0,33.0,Outside,77.0,33.0,Outside
-2021-09-03 21:00:00,71.6,55.6,Backyard,70.0,44.0,Outside
 2021-09-03 21:00:00,64.4,60.3,Lower Northeast,70.0,44.0,Outside
-2021-09-03 21:00:00,64.4,69.5,Lower Southwest,70.0,44.0,Outside
-2021-09-03 21:00:00,69.98,55.59,Upper West (Bedroom),70.0,44.0,Outside
-2021-09-03 21:00:00,70.88,56.7,Upper East (Garage),70.0,44.0,Outside
+2021-09-03 21:00:00,71.6,55.6,Backyard,70.0,44.0,Outside
 2021-09-03 21:00:00,64.4,66.1,Lower Southeast,70.0,44.0,Outside
+2021-09-03 21:00:00,64.4,69.5,Lower Southwest,70.0,44.0,Outside
+2021-09-03 21:00:00,70.88,56.7,Upper East (Garage),70.0,44.0,Outside
+2021-09-03 21:00:00,69.98,55.59,Upper West (Bedroom),70.0,44.0,Outside
 2021-09-03 21:00:00,70.0,44.0,Outside,70.0,44.0,Outside
-2021-09-03 22:00:00,71.78,54.9,Backyard,67.0,51.0,Outside
 2021-09-03 22:00:00,64.04,59.9,Lower Northeast,67.0,51.0,Outside
-2021-09-03 22:00:00,64.4,68.0,Lower Southwest,67.0,51.0,Outside
-2021-09-03 22:00:00,69.8,54.29,Upper West (Bedroom),67.0,51.0,Outside
-2021-09-03 22:00:00,70.7,55.0,Upper East (Garage),67.0,51.0,Outside
+2021-09-03 22:00:00,71.78,54.9,Backyard,67.0,51.0,Outside
 2021-09-03 22:00:00,64.58,65.9,Lower Southeast,67.0,51.0,Outside
+2021-09-03 22:00:00,64.4,68.0,Lower Southwest,67.0,51.0,Outside
+2021-09-03 22:00:00,70.7,55.0,Upper East (Garage),67.0,51.0,Outside
+2021-09-03 22:00:00,69.8,54.29,Upper West (Bedroom),67.0,51.0,Outside
 2021-09-03 22:00:00,67.0,51.0,Outside,67.0,51.0,Outside
-2021-09-03 23:00:00,71.6,55.7,Backyard,67.0,63.0,Outside
 2021-09-03 23:00:00,63.68,60.0,Lower Northeast,67.0,63.0,Outside
-2021-09-03 23:00:00,64.4,67.6,Lower Southwest,67.0,63.0,Outside
-2021-09-03 23:00:00,69.62,54.69,Upper West (Bedroom),67.0,63.0,Outside
-2021-09-03 23:00:00,70.7,55.0,Upper East (Garage),67.0,63.0,Outside
+2021-09-03 23:00:00,71.6,55.7,Backyard,67.0,63.0,Outside
 2021-09-03 23:00:00,64.76,65.8,Lower Southeast,67.0,63.0,Outside
+2021-09-03 23:00:00,64.4,67.6,Lower Southwest,67.0,63.0,Outside
+2021-09-03 23:00:00,70.7,55.0,Upper East (Garage),67.0,63.0,Outside
+2021-09-03 23:00:00,69.62,54.69,Upper West (Bedroom),67.0,63.0,Outside
 2021-09-03 23:00:00,67.0,63.0,Outside,67.0,63.0,Outside
-2021-09-04 00:00:00,71.42,55.0,Backyard,64.0,60.0,Outside
 2021-09-04 00:00:00,63.5,60.1,Lower Northeast,64.0,60.0,Outside
-2021-09-04 00:00:00,64.4,67.0,Lower Southwest,64.0,60.0,Outside
-2021-09-04 00:00:00,69.44,54.39,Upper West (Bedroom),64.0,60.0,Outside
-2021-09-04 00:00:00,70.52,55.2,Upper East (Garage),64.0,60.0,Outside
+2021-09-04 00:00:00,71.42,55.0,Backyard,64.0,60.0,Outside
 2021-09-04 00:00:00,64.76,64.5,Lower Southeast,64.0,60.0,Outside
+2021-09-04 00:00:00,64.4,67.0,Lower Southwest,64.0,60.0,Outside
+2021-09-04 00:00:00,70.52,55.2,Upper East (Garage),64.0,60.0,Outside
+2021-09-04 00:00:00,69.44,54.39,Upper West (Bedroom),64.0,60.0,Outside
 2021-09-04 00:00:00,64.0,60.0,Outside,64.0,60.0,Outside
-2021-09-04 01:00:00,71.42,54.5,Backyard,64.0,67.0,Outside
 2021-09-04 01:00:00,63.32,60.6,Lower Northeast,64.0,67.0,Outside
-2021-09-04 01:00:00,64.22,67.3,Lower Southwest,64.0,67.0,Outside
-2021-09-04 01:00:00,69.44,56.09,Upper West (Bedroom),64.0,67.0,Outside
-2021-09-04 01:00:00,70.52,55.2,Upper East (Garage),64.0,67.0,Outside
+2021-09-04 01:00:00,71.42,54.5,Backyard,64.0,67.0,Outside
 2021-09-04 01:00:00,64.58,64.1,Lower Southeast,64.0,67.0,Outside
+2021-09-04 01:00:00,64.22,67.3,Lower Southwest,64.0,67.0,Outside
+2021-09-04 01:00:00,70.52,55.2,Upper East (Garage),64.0,67.0,Outside
+2021-09-04 01:00:00,69.44,56.09,Upper West (Bedroom),64.0,67.0,Outside
 2021-09-04 01:00:00,64.0,67.0,Outside,64.0,67.0,Outside
-2021-09-04 02:00:00,71.24,54.3,Backyard,60.0,64.0,Outside
 2021-09-04 02:00:00,62.96,61.8,Lower Northeast,60.0,64.0,Outside
-2021-09-04 02:00:00,64.22,67.2,Lower Southwest,60.0,64.0,Outside
-2021-09-04 02:00:00,69.26,56.29,Upper West (Bedroom),60.0,64.0,Outside
-2021-09-04 02:00:00,70.52,55.8,Upper East (Garage),60.0,64.0,Outside
+2021-09-04 02:00:00,71.24,54.3,Backyard,60.0,64.0,Outside
 2021-09-04 02:00:00,64.4,62.3,Lower Southeast,60.0,64.0,Outside
+2021-09-04 02:00:00,64.22,67.2,Lower Southwest,60.0,64.0,Outside
+2021-09-04 02:00:00,70.52,55.8,Upper East (Garage),60.0,64.0,Outside
+2021-09-04 02:00:00,69.26,56.29,Upper West (Bedroom),60.0,64.0,Outside
 2021-09-04 02:00:00,60.0,64.0,Outside,60.0,64.0,Outside
-2021-09-04 03:00:00,71.06,54.2,Backyard,60.0,64.0,Outside
 2021-09-04 03:00:00,62.6,62.2,Lower Northeast,60.0,64.0,Outside
-2021-09-04 03:00:00,64.04,66.8,Lower Southwest,60.0,64.0,Outside
-2021-09-04 03:00:00,69.08,55.29,Upper West (Bedroom),60.0,64.0,Outside
-2021-09-04 03:00:00,70.34,55.8,Upper East (Garage),60.0,64.0,Outside
+2021-09-04 03:00:00,71.06,54.2,Backyard,60.0,64.0,Outside
 2021-09-04 03:00:00,64.22,62.3,Lower Southeast,60.0,64.0,Outside
+2021-09-04 03:00:00,64.04,66.8,Lower Southwest,60.0,64.0,Outside
+2021-09-04 03:00:00,70.34,55.8,Upper East (Garage),60.0,64.0,Outside
+2021-09-04 03:00:00,69.08,55.29,Upper West (Bedroom),60.0,64.0,Outside
 2021-09-04 03:00:00,60.0,64.0,Outside,60.0,64.0,Outside
-2021-09-04 04:00:00,71.06,54.1,Backyard,58.0,70.0,Outside
 2021-09-04 04:00:00,62.6,62.9,Lower Northeast,58.0,70.0,Outside
-2021-09-04 04:00:00,64.04,66.9,Lower Southwest,58.0,70.0,Outside
-2021-09-04 04:00:00,69.08,56.89,Upper West (Bedroom),58.0,70.0,Outside
-2021-09-04 04:00:00,70.34,55.9,Upper East (Garage),58.0,70.0,Outside
+2021-09-04 04:00:00,71.06,54.1,Backyard,58.0,70.0,Outside
 2021-09-04 04:00:00,64.22,61.8,Lower Southeast,58.0,70.0,Outside
+2021-09-04 04:00:00,64.04,66.9,Lower Southwest,58.0,70.0,Outside
+2021-09-04 04:00:00,70.34,55.9,Upper East (Garage),58.0,70.0,Outside
+2021-09-04 04:00:00,69.08,56.89,Upper West (Bedroom),58.0,70.0,Outside
 2021-09-04 04:00:00,58.0,70.0,Outside,58.0,70.0,Outside
-2021-09-04 05:00:00,70.7,54.0,Backyard,56.0,75.0,Outside
 2021-09-04 05:00:00,62.6,62.9,Lower Northeast,56.0,75.0,Outside
-2021-09-04 05:00:00,64.04,67.2,Lower Southwest,56.0,75.0,Outside
-2021-09-04 05:00:00,68.9,56.89,Upper West (Bedroom),56.0,75.0,Outside
-2021-09-04 05:00:00,70.34,56.6,Upper East (Garage),56.0,75.0,Outside
+2021-09-04 05:00:00,70.7,54.0,Backyard,56.0,75.0,Outside
 2021-09-04 05:00:00,64.04,61.9,Lower Southeast,56.0,75.0,Outside
+2021-09-04 05:00:00,64.04,67.2,Lower Southwest,56.0,75.0,Outside
+2021-09-04 05:00:00,70.34,56.6,Upper East (Garage),56.0,75.0,Outside
+2021-09-04 05:00:00,68.9,56.89,Upper West (Bedroom),56.0,75.0,Outside
 2021-09-04 05:00:00,56.0,75.0,Outside,56.0,75.0,Outside
-2021-09-04 06:00:00,70.34,53.9,Backyard,57.0,69.0,Outside
 2021-09-04 06:00:00,62.42,63.2,Lower Northeast,57.0,69.0,Outside
-2021-09-04 06:00:00,63.86,66.5,Lower Southwest,57.0,69.0,Outside
-2021-09-04 06:00:00,68.9,57.19,Upper West (Bedroom),57.0,69.0,Outside
-2021-09-04 06:00:00,70.16,56.7,Upper East (Garage),57.0,69.0,Outside
+2021-09-04 06:00:00,70.34,53.9,Backyard,57.0,69.0,Outside
 2021-09-04 06:00:00,64.04,61.9,Lower Southeast,57.0,69.0,Outside
+2021-09-04 06:00:00,63.86,66.5,Lower Southwest,57.0,69.0,Outside
+2021-09-04 06:00:00,70.16,56.7,Upper East (Garage),57.0,69.0,Outside
+2021-09-04 06:00:00,68.9,57.19,Upper West (Bedroom),57.0,69.0,Outside
 2021-09-04 06:00:00,57.0,69.0,Outside,57.0,69.0,Outside
-2021-09-04 07:00:00,70.16,53.8,Backyard,56.0,75.0,Outside
 2021-09-04 07:00:00,62.24,62.9,Lower Northeast,56.0,75.0,Outside
-2021-09-04 07:00:00,63.86,66.6,Lower Southwest,56.0,75.0,Outside
-2021-09-04 07:00:00,68.72,56.19,Upper West (Bedroom),56.0,75.0,Outside
-2021-09-04 07:00:00,70.16,56.5,Upper East (Garage),56.0,75.0,Outside
+2021-09-04 07:00:00,70.16,53.8,Backyard,56.0,75.0,Outside
 2021-09-04 07:00:00,64.04,61.5,Lower Southeast,56.0,75.0,Outside
+2021-09-04 07:00:00,63.86,66.6,Lower Southwest,56.0,75.0,Outside
+2021-09-04 07:00:00,70.16,56.5,Upper East (Garage),56.0,75.0,Outside
+2021-09-04 07:00:00,68.72,56.19,Upper West (Bedroom),56.0,75.0,Outside
 2021-09-04 07:00:00,56.0,75.0,Outside,56.0,75.0,Outside
-2021-09-04 08:00:00,70.16,53.9,Backyard,59.0,64.0,Outside
 2021-09-04 08:00:00,62.42,64.0,Lower Northeast,59.0,64.0,Outside
-2021-09-04 08:00:00,63.86,66.9,Lower Southwest,59.0,64.0,Outside
-2021-09-04 08:00:00,68.9,57.79,Upper West (Bedroom),59.0,64.0,Outside
-2021-09-04 08:00:00,70.16,56.7,Upper East (Garage),59.0,64.0,Outside
+2021-09-04 08:00:00,70.16,53.9,Backyard,59.0,64.0,Outside
 2021-09-04 08:00:00,64.04,61.7,Lower Southeast,59.0,64.0,Outside
+2021-09-04 08:00:00,63.86,66.9,Lower Southwest,59.0,64.0,Outside
+2021-09-04 08:00:00,70.16,56.7,Upper East (Garage),59.0,64.0,Outside
+2021-09-04 08:00:00,68.9,57.79,Upper West (Bedroom),59.0,64.0,Outside
 2021-09-04 08:00:00,59.0,64.0,Outside,59.0,64.0,Outside
-2021-09-04 09:00:00,69.98,54.0,Backyard,62.0,62.0,Outside
 2021-09-04 09:00:00,62.6,64.1,Lower Northeast,62.0,62.0,Outside
-2021-09-04 09:00:00,64.04,67.0,Lower Southwest,62.0,62.0,Outside
-2021-09-04 09:00:00,68.9,55.89,Upper West (Bedroom),62.0,62.0,Outside
-2021-09-04 09:00:00,70.16,57.5,Upper East (Garage),62.0,62.0,Outside
+2021-09-04 09:00:00,69.98,54.0,Backyard,62.0,62.0,Outside
 2021-09-04 09:00:00,64.22,62.7,Lower Southeast,62.0,62.0,Outside
+2021-09-04 09:00:00,64.04,67.0,Lower Southwest,62.0,62.0,Outside
+2021-09-04 09:00:00,70.16,57.5,Upper East (Garage),62.0,62.0,Outside
+2021-09-04 09:00:00,68.9,55.89,Upper West (Bedroom),62.0,62.0,Outside
 2021-09-04 09:00:00,62.0,62.0,Outside,62.0,62.0,Outside
-2021-09-04 10:00:00,69.98,54.1,Backyard,66.0,54.0,Outside
 2021-09-04 10:00:00,62.96,63.1,Lower Northeast,66.0,54.0,Outside
-2021-09-04 10:00:00,64.04,67.3,Lower Southwest,66.0,54.0,Outside
-2021-09-04 10:00:00,68.9,55.49,Upper West (Bedroom),66.0,54.0,Outside
-2021-09-04 10:00:00,70.16,56.8,Upper East (Garage),66.0,54.0,Outside
+2021-09-04 10:00:00,69.98,54.1,Backyard,66.0,54.0,Outside
 2021-09-04 10:00:00,64.22,63.9,Lower Southeast,66.0,54.0,Outside
+2021-09-04 10:00:00,64.04,67.3,Lower Southwest,66.0,54.0,Outside
+2021-09-04 10:00:00,70.16,56.8,Upper East (Garage),66.0,54.0,Outside
+2021-09-04 10:00:00,68.9,55.49,Upper West (Bedroom),66.0,54.0,Outside
 2021-09-04 10:00:00,66.0,54.0,Outside,66.0,54.0,Outside
-2021-09-04 11:00:00,70.16,54.4,Backyard,70.0,47.0,Outside
 2021-09-04 11:00:00,63.32,65.5,Lower Northeast,70.0,47.0,Outside
-2021-09-04 11:00:00,64.04,70.8,Lower Southwest,70.0,47.0,Outside
-2021-09-04 11:00:00,69.26,57.69,Upper West (Bedroom),70.0,47.0,Outside
-2021-09-04 11:00:00,70.16,59.0,Upper East (Garage),70.0,47.0,Outside
+2021-09-04 11:00:00,70.16,54.4,Backyard,70.0,47.0,Outside
 2021-09-04 11:00:00,64.22,64.8,Lower Southeast,70.0,47.0,Outside
+2021-09-04 11:00:00,64.04,70.8,Lower Southwest,70.0,47.0,Outside
+2021-09-04 11:00:00,70.16,59.0,Upper East (Garage),70.0,47.0,Outside
+2021-09-04 11:00:00,69.26,57.69,Upper West (Bedroom),70.0,47.0,Outside
 2021-09-04 11:00:00,70.0,47.0,Outside,70.0,47.0,Outside
-2021-09-04 12:00:00,70.34,54.5,Backyard,74.0,40.0,Outside
 2021-09-04 12:00:00,63.5,65.0,Lower Northeast,74.0,40.0,Outside
-2021-09-04 12:00:00,64.22,72.6,Lower Southwest,74.0,40.0,Outside
-2021-09-04 12:00:00,69.44,56.59,Upper West (Bedroom),74.0,40.0,Outside
-2021-09-04 12:00:00,70.34,59.4,Upper East (Garage),74.0,40.0,Outside
+2021-09-04 12:00:00,70.34,54.5,Backyard,74.0,40.0,Outside
 2021-09-04 12:00:00,64.22,65.0,Lower Southeast,74.0,40.0,Outside
+2021-09-04 12:00:00,64.22,72.6,Lower Southwest,74.0,40.0,Outside
+2021-09-04 12:00:00,70.34,59.4,Upper East (Garage),74.0,40.0,Outside
+2021-09-04 12:00:00,69.44,56.59,Upper West (Bedroom),74.0,40.0,Outside
 2021-09-04 12:00:00,74.0,40.0,Outside,74.0,40.0,Outside
-2021-09-04 13:00:00,70.52,54.5,Backyard,77.0,36.0,Outside
 2021-09-04 13:00:00,63.86,65.7,Lower Northeast,77.0,36.0,Outside
-2021-09-04 13:00:00,64.22,73.7,Lower Southwest,77.0,36.0,Outside
-2021-09-04 13:00:00,70.34,55.99,Upper West (Bedroom),77.0,36.0,Outside
-2021-09-04 13:00:00,70.34,57.1,Upper East (Garage),77.0,36.0,Outside
+2021-09-04 13:00:00,70.52,54.5,Backyard,77.0,36.0,Outside
 2021-09-04 13:00:00,64.22,65.6,Lower Southeast,77.0,36.0,Outside
+2021-09-04 13:00:00,64.22,73.7,Lower Southwest,77.0,36.0,Outside
+2021-09-04 13:00:00,70.34,57.1,Upper East (Garage),77.0,36.0,Outside
+2021-09-04 13:00:00,70.34,55.99,Upper West (Bedroom),77.0,36.0,Outside
 2021-09-04 13:00:00,77.0,36.0,Outside,77.0,36.0,Outside
-2021-09-04 14:00:00,70.88,54.3,Backyard,80.0,32.0,Outside
 2021-09-04 14:00:00,64.22,61.9,Lower Northeast,80.0,32.0,Outside
-2021-09-04 14:00:00,64.22,73.7,Lower Southwest,80.0,32.0,Outside
-2021-09-04 14:00:00,70.34,53.89,Upper West (Bedroom),80.0,32.0,Outside
-2021-09-04 14:00:00,70.52,54.6,Upper East (Garage),80.0,32.0,Outside
+2021-09-04 14:00:00,70.88,54.3,Backyard,80.0,32.0,Outside
 2021-09-04 14:00:00,64.22,65.6,Lower Southeast,80.0,32.0,Outside
+2021-09-04 14:00:00,64.22,73.7,Lower Southwest,80.0,32.0,Outside
+2021-09-04 14:00:00,70.52,54.6,Upper East (Garage),80.0,32.0,Outside
+2021-09-04 14:00:00,70.34,53.89,Upper West (Bedroom),80.0,32.0,Outside
 2021-09-04 14:00:00,80.0,32.0,Outside,80.0,32.0,Outside
-2021-09-04 15:00:00,71.24,54.8,Backyard,84.0,28.0,Outside
 2021-09-04 15:00:00,64.4,64.3,Lower Northeast,84.0,28.0,Outside
-2021-09-04 15:00:00,64.4,73.6,Lower Southwest,84.0,28.0,Outside
-2021-09-04 15:00:00,70.88,52.79,Upper West (Bedroom),84.0,28.0,Outside
-2021-09-04 15:00:00,70.7,56.1,Upper East (Garage),84.0,28.0,Outside
+2021-09-04 15:00:00,71.24,54.8,Backyard,84.0,28.0,Outside
 2021-09-04 15:00:00,64.22,66.0,Lower Southeast,84.0,28.0,Outside
+2021-09-04 15:00:00,64.4,73.6,Lower Southwest,84.0,28.0,Outside
+2021-09-04 15:00:00,70.7,56.1,Upper East (Garage),84.0,28.0,Outside
+2021-09-04 15:00:00,70.88,52.79,Upper West (Bedroom),84.0,28.0,Outside
 2021-09-04 15:00:00,84.0,28.0,Outside,84.0,28.0,Outside
-2021-09-04 16:00:00,71.42,54.8,Backyard,86.0,22.0,Outside
 2021-09-04 16:00:00,64.58,64.3,Lower Northeast,86.0,22.0,Outside
-2021-09-04 16:00:00,64.4,74.0,Lower Southwest,86.0,22.0,Outside
-2021-09-04 16:00:00,71.42,52.59,Upper West (Bedroom),86.0,22.0,Outside
-2021-09-04 16:00:00,70.7,54.4,Upper East (Garage),86.0,22.0,Outside
+2021-09-04 16:00:00,71.42,54.8,Backyard,86.0,22.0,Outside
 2021-09-04 16:00:00,64.22,66.4,Lower Southeast,86.0,22.0,Outside
+2021-09-04 16:00:00,64.4,74.0,Lower Southwest,86.0,22.0,Outside
+2021-09-04 16:00:00,70.7,54.4,Upper East (Garage),86.0,22.0,Outside
+2021-09-04 16:00:00,71.42,52.59,Upper West (Bedroom),86.0,22.0,Outside
 2021-09-04 16:00:00,86.0,22.0,Outside,86.0,22.0,Outside
-2021-09-04 17:00:00,71.6,56.4,Backyard,87.0,22.0,Outside
 2021-09-04 17:00:00,64.76,62.8,Lower Northeast,87.0,22.0,Outside
-2021-09-04 17:00:00,64.76,74.9,Lower Southwest,87.0,22.0,Outside
-2021-09-04 17:00:00,71.6,52.79,Upper West (Bedroom),87.0,22.0,Outside
-2021-09-04 17:00:00,70.88,55.9,Upper East (Garage),87.0,22.0,Outside
+2021-09-04 17:00:00,71.6,56.4,Backyard,87.0,22.0,Outside
 2021-09-04 17:00:00,64.76,66.0,Lower Southeast,87.0,22.0,Outside
+2021-09-04 17:00:00,64.76,74.9,Lower Southwest,87.0,22.0,Outside
+2021-09-04 17:00:00,70.88,55.9,Upper East (Garage),87.0,22.0,Outside
+2021-09-04 17:00:00,71.6,52.79,Upper West (Bedroom),87.0,22.0,Outside
 2021-09-04 17:00:00,87.0,22.0,Outside,87.0,22.0,Outside
-2021-09-04 18:00:00,71.78,56.7,Backyard,87.0,23.0,Outside
 2021-09-04 18:00:00,65.12,64.1,Lower Northeast,87.0,23.0,Outside
-2021-09-04 18:00:00,64.76,75.4,Lower Southwest,87.0,23.0,Outside
-2021-09-04 18:00:00,71.6,53.39,Upper West (Bedroom),87.0,23.0,Outside
-2021-09-04 18:00:00,70.88,56.3,Upper East (Garage),87.0,23.0,Outside
+2021-09-04 18:00:00,71.78,56.7,Backyard,87.0,23.0,Outside
 2021-09-04 18:00:00,64.76,66.6,Lower Southeast,87.0,23.0,Outside
+2021-09-04 18:00:00,64.76,75.4,Lower Southwest,87.0,23.0,Outside
+2021-09-04 18:00:00,70.88,56.3,Upper East (Garage),87.0,23.0,Outside
+2021-09-04 18:00:00,71.6,53.39,Upper West (Bedroom),87.0,23.0,Outside
 2021-09-04 18:00:00,87.0,23.0,Outside,87.0,23.0,Outside
-2021-09-04 19:00:00,71.96,57.7,Backyard,87.0,23.0,Outside
 2021-09-04 19:00:00,64.94,64.7,Lower Northeast,87.0,23.0,Outside
-2021-09-04 19:00:00,64.94,74.7,Lower Southwest,87.0,23.0,Outside
-2021-09-04 19:00:00,71.6,53.59,Upper West (Bedroom),87.0,23.0,Outside
-2021-09-04 19:00:00,71.06,55.5,Upper East (Garage),87.0,23.0,Outside
+2021-09-04 19:00:00,71.96,57.7,Backyard,87.0,23.0,Outside
 2021-09-04 19:00:00,64.94,67.0,Lower Southeast,87.0,23.0,Outside
+2021-09-04 19:00:00,64.94,74.7,Lower Southwest,87.0,23.0,Outside
+2021-09-04 19:00:00,71.06,55.5,Upper East (Garage),87.0,23.0,Outside
+2021-09-04 19:00:00,71.6,53.59,Upper West (Bedroom),87.0,23.0,Outside
 2021-09-04 19:00:00,87.0,23.0,Outside,87.0,23.0,Outside
-2021-09-04 20:00:00,71.96,58.0,Backyard,79.0,38.0,Outside
 2021-09-04 20:00:00,65.12,66.5,Lower Northeast,79.0,38.0,Outside
-2021-09-04 20:00:00,64.76,77.6,Lower Southwest,79.0,38.0,Outside
-2021-09-04 20:00:00,71.06,55.79,Upper West (Bedroom),79.0,38.0,Outside
-2021-09-04 20:00:00,71.06,56.1,Upper East (Garage),79.0,38.0,Outside
+2021-09-04 20:00:00,71.96,58.0,Backyard,79.0,38.0,Outside
 2021-09-04 20:00:00,64.58,67.5,Lower Southeast,79.0,38.0,Outside
+2021-09-04 20:00:00,64.76,77.6,Lower Southwest,79.0,38.0,Outside
+2021-09-04 20:00:00,71.06,56.1,Upper East (Garage),79.0,38.0,Outside
+2021-09-04 20:00:00,71.06,55.79,Upper West (Bedroom),79.0,38.0,Outside
 2021-09-04 20:00:00,79.0,38.0,Outside,79.0,38.0,Outside
-2021-09-04 21:00:00,71.96,58.1,Backyard,74.0,55.0,Outside
 2021-09-04 21:00:00,64.94,69.7,Lower Northeast,74.0,55.0,Outside
-2021-09-04 21:00:00,64.58,76.9,Lower Southwest,74.0,55.0,Outside
-2021-09-04 21:00:00,70.88,57.49,Upper West (Bedroom),74.0,55.0,Outside
-2021-09-04 21:00:00,71.24,58.4,Upper East (Garage),74.0,55.0,Outside
+2021-09-04 21:00:00,71.96,58.1,Backyard,74.0,55.0,Outside
 2021-09-04 21:00:00,64.58,67.8,Lower Southeast,74.0,55.0,Outside
+2021-09-04 21:00:00,64.58,76.9,Lower Southwest,74.0,55.0,Outside
+2021-09-04 21:00:00,71.24,58.4,Upper East (Garage),74.0,55.0,Outside
+2021-09-04 21:00:00,70.88,57.49,Upper West (Bedroom),74.0,55.0,Outside
 2021-09-04 21:00:00,74.0,55.0,Outside,74.0,55.0,Outside
-2021-09-04 22:00:00,71.96,58.0,Backyard,72.0,61.0,Outside
 2021-09-04 22:00:00,64.58,69.4,Lower Northeast,72.0,61.0,Outside
-2021-09-04 22:00:00,64.58,78.1,Lower Southwest,72.0,61.0,Outside
-2021-09-04 22:00:00,70.7,58.69,Upper West (Bedroom),72.0,61.0,Outside
-2021-09-04 22:00:00,71.24,61.3,Upper East (Garage),72.0,61.0,Outside
+2021-09-04 22:00:00,71.96,58.0,Backyard,72.0,61.0,Outside
 2021-09-04 22:00:00,64.58,68.0,Lower Southeast,72.0,61.0,Outside
+2021-09-04 22:00:00,64.58,78.1,Lower Southwest,72.0,61.0,Outside
+2021-09-04 22:00:00,71.24,61.3,Upper East (Garage),72.0,61.0,Outside
+2021-09-04 22:00:00,70.7,58.69,Upper West (Bedroom),72.0,61.0,Outside
 2021-09-04 22:00:00,72.0,61.0,Outside,72.0,61.0,Outside
-2021-09-04 23:00:00,71.96,57.6,Backyard,71.0,66.0,Outside
 2021-09-04 23:00:00,64.4,70.9,Lower Northeast,71.0,66.0,Outside
-2021-09-04 23:00:00,64.58,78.4,Lower Southwest,71.0,66.0,Outside
-2021-09-04 23:00:00,70.7,59.49,Upper West (Bedroom),71.0,66.0,Outside
-2021-09-04 23:00:00,71.24,63.2,Upper East (Garage),71.0,66.0,Outside
+2021-09-04 23:00:00,71.96,57.6,Backyard,71.0,66.0,Outside
 2021-09-04 23:00:00,64.4,68.3,Lower Southeast,71.0,66.0,Outside
+2021-09-04 23:00:00,64.58,78.4,Lower Southwest,71.0,66.0,Outside
+2021-09-04 23:00:00,71.24,63.2,Upper East (Garage),71.0,66.0,Outside
+2021-09-04 23:00:00,70.7,59.49,Upper West (Bedroom),71.0,66.0,Outside
 2021-09-04 23:00:00,71.0,66.0,Outside,71.0,66.0,Outside
-2021-09-05 00:00:00,71.78,58.9,Backyard,68.0,73.0,Outside
 2021-09-05 00:00:00,64.4,72.6,Lower Northeast,68.0,73.0,Outside
-2021-09-05 00:00:00,64.4,76.1,Lower Southwest,68.0,73.0,Outside
-2021-09-05 00:00:00,70.52,62.39,Upper West (Bedroom),68.0,73.0,Outside
-2021-09-05 00:00:00,71.24,63.7,Upper East (Garage),68.0,73.0,Outside
+2021-09-05 00:00:00,71.78,58.9,Backyard,68.0,73.0,Outside
 2021-09-05 00:00:00,64.4,68.6,Lower Southeast,68.0,73.0,Outside
+2021-09-05 00:00:00,64.4,76.1,Lower Southwest,68.0,73.0,Outside
+2021-09-05 00:00:00,71.24,63.7,Upper East (Garage),68.0,73.0,Outside
+2021-09-05 00:00:00,70.52,62.39,Upper West (Bedroom),68.0,73.0,Outside
 2021-09-05 00:00:00,68.0,73.0,Outside,68.0,73.0,Outside
-2021-09-05 01:00:00,71.78,57.9,Backyard,67.0,76.0,Outside
 2021-09-05 01:00:00,64.22,73.5,Lower Northeast,67.0,76.0,Outside
-2021-09-05 01:00:00,64.22,75.4,Lower Southwest,67.0,76.0,Outside
-2021-09-05 01:00:00,70.52,62.69,Upper West (Bedroom),67.0,76.0,Outside
-2021-09-05 01:00:00,71.24,63.7,Upper East (Garage),67.0,76.0,Outside
+2021-09-05 01:00:00,71.78,57.9,Backyard,67.0,76.0,Outside
 2021-09-05 01:00:00,64.4,69.0,Lower Southeast,67.0,76.0,Outside
+2021-09-05 01:00:00,64.22,75.4,Lower Southwest,67.0,76.0,Outside
+2021-09-05 01:00:00,71.24,63.7,Upper East (Garage),67.0,76.0,Outside
+2021-09-05 01:00:00,70.52,62.69,Upper West (Bedroom),67.0,76.0,Outside
 2021-09-05 01:00:00,67.0,76.0,Outside,67.0,76.0,Outside
-2021-09-05 02:00:00,71.78,57.7,Backyard,66.0,75.0,Outside
 2021-09-05 02:00:00,64.22,73.9,Lower Northeast,66.0,75.0,Outside
-2021-09-05 02:00:00,64.4,76.3,Lower Southwest,66.0,75.0,Outside
-2021-09-05 02:00:00,70.34,63.09,Upper West (Bedroom),66.0,75.0,Outside
-2021-09-05 02:00:00,71.24,64.7,Upper East (Garage),66.0,75.0,Outside
+2021-09-05 02:00:00,71.78,57.7,Backyard,66.0,75.0,Outside
 2021-09-05 02:00:00,64.22,69.3,Lower Southeast,66.0,75.0,Outside
+2021-09-05 02:00:00,64.4,76.3,Lower Southwest,66.0,75.0,Outside
+2021-09-05 02:00:00,71.24,64.7,Upper East (Garage),66.0,75.0,Outside
+2021-09-05 02:00:00,70.34,63.09,Upper West (Bedroom),66.0,75.0,Outside
 2021-09-05 02:00:00,66.0,75.0,Outside,66.0,75.0,Outside
-2021-09-05 03:00:00,71.78,57.7,Backyard,64.0,78.0,Outside
 2021-09-05 03:00:00,64.04,75.2,Lower Northeast,64.0,78.0,Outside
-2021-09-05 03:00:00,64.4,76.2,Lower Southwest,64.0,78.0,Outside
-2021-09-05 03:00:00,70.34,63.09,Upper West (Bedroom),64.0,78.0,Outside
-2021-09-05 03:00:00,71.24,64.9,Upper East (Garage),64.0,78.0,Outside
+2021-09-05 03:00:00,71.78,57.7,Backyard,64.0,78.0,Outside
 2021-09-05 03:00:00,64.22,69.5,Lower Southeast,64.0,78.0,Outside
+2021-09-05 03:00:00,64.4,76.2,Lower Southwest,64.0,78.0,Outside
+2021-09-05 03:00:00,71.24,64.9,Upper East (Garage),64.0,78.0,Outside
+2021-09-05 03:00:00,70.34,63.09,Upper West (Bedroom),64.0,78.0,Outside
 2021-09-05 03:00:00,64.0,78.0,Outside,64.0,78.0,Outside
-2021-09-05 04:00:00,71.78,57.7,Backyard,64.0,80.0,Outside
 2021-09-05 04:00:00,63.68,76.4,Lower Northeast,64.0,80.0,Outside
-2021-09-05 04:00:00,64.22,76.4,Lower Southwest,64.0,80.0,Outside
-2021-09-05 04:00:00,70.16,63.39,Upper West (Bedroom),64.0,80.0,Outside
-2021-09-05 04:00:00,71.24,64.8,Upper East (Garage),64.0,80.0,Outside
+2021-09-05 04:00:00,71.78,57.7,Backyard,64.0,80.0,Outside
 2021-09-05 04:00:00,64.22,69.7,Lower Southeast,64.0,80.0,Outside
+2021-09-05 04:00:00,64.22,76.4,Lower Southwest,64.0,80.0,Outside
+2021-09-05 04:00:00,71.24,64.8,Upper East (Garage),64.0,80.0,Outside
+2021-09-05 04:00:00,70.16,63.39,Upper West (Bedroom),64.0,80.0,Outside
 2021-09-05 04:00:00,64.0,80.0,Outside,64.0,80.0,Outside
-2021-09-05 05:00:00,71.6,57.7,Backyard,63.0,84.0,Outside
 2021-09-05 05:00:00,63.5,76.7,Lower Northeast,63.0,84.0,Outside
-2021-09-05 05:00:00,64.22,76.1,Lower Southwest,63.0,84.0,Outside
-2021-09-05 05:00:00,69.98,64.59,Upper West (Bedroom),63.0,84.0,Outside
-2021-09-05 05:00:00,71.24,64.8,Upper East (Garage),63.0,84.0,Outside
+2021-09-05 05:00:00,71.6,57.7,Backyard,63.0,84.0,Outside
 2021-09-05 05:00:00,64.22,70.0,Lower Southeast,63.0,84.0,Outside
+2021-09-05 05:00:00,64.22,76.1,Lower Southwest,63.0,84.0,Outside
+2021-09-05 05:00:00,71.24,64.8,Upper East (Garage),63.0,84.0,Outside
+2021-09-05 05:00:00,69.98,64.59,Upper West (Bedroom),63.0,84.0,Outside
 2021-09-05 05:00:00,63.0,84.0,Outside,63.0,84.0,Outside
-2021-09-05 06:00:00,71.42,57.6,Backyard,61.0,87.0,Outside
 2021-09-05 06:00:00,63.5,75.5,Lower Northeast,61.0,87.0,Outside
-2021-09-05 06:00:00,64.22,75.8,Lower Southwest,61.0,87.0,Outside
-2021-09-05 06:00:00,69.98,63.69,Upper West (Bedroom),61.0,87.0,Outside
-2021-09-05 06:00:00,71.06,64.3,Upper East (Garage),61.0,87.0,Outside
+2021-09-05 06:00:00,71.42,57.6,Backyard,61.0,87.0,Outside
 2021-09-05 06:00:00,64.22,70.2,Lower Southeast,61.0,87.0,Outside
+2021-09-05 06:00:00,64.22,75.8,Lower Southwest,61.0,87.0,Outside
+2021-09-05 06:00:00,71.06,64.3,Upper East (Garage),61.0,87.0,Outside
+2021-09-05 06:00:00,69.98,63.69,Upper West (Bedroom),61.0,87.0,Outside
 2021-09-05 06:00:00,61.0,87.0,Outside,61.0,87.0,Outside
-2021-09-05 07:00:00,71.24,57.4,Backyard,62.0,84.0,Outside
 2021-09-05 07:00:00,63.32,76.7,Lower Northeast,62.0,84.0,Outside
-2021-09-05 07:00:00,64.22,76.3,Lower Southwest,62.0,84.0,Outside
-2021-09-05 07:00:00,69.98,64.79,Upper West (Bedroom),62.0,84.0,Outside
-2021-09-05 07:00:00,71.06,64.8,Upper East (Garage),62.0,84.0,Outside
+2021-09-05 07:00:00,71.24,57.4,Backyard,62.0,84.0,Outside
 2021-09-05 07:00:00,64.22,70.3,Lower Southeast,62.0,84.0,Outside
+2021-09-05 07:00:00,64.22,76.3,Lower Southwest,62.0,84.0,Outside
+2021-09-05 07:00:00,71.06,64.8,Upper East (Garage),62.0,84.0,Outside
+2021-09-05 07:00:00,69.98,64.79,Upper West (Bedroom),62.0,84.0,Outside
 2021-09-05 07:00:00,62.0,84.0,Outside,62.0,84.0,Outside
-2021-09-05 08:00:00,71.24,57.5,Backyard,64.0,78.0,Outside
 2021-09-05 08:00:00,63.5,77.5,Lower Northeast,64.0,78.0,Outside
-2021-09-05 08:00:00,64.22,76.8,Lower Southwest,64.0,78.0,Outside
-2021-09-05 08:00:00,69.98,64.79,Upper West (Bedroom),64.0,78.0,Outside
-2021-09-05 08:00:00,71.06,65.2,Upper East (Garage),64.0,78.0,Outside
+2021-09-05 08:00:00,71.24,57.5,Backyard,64.0,78.0,Outside
 2021-09-05 08:00:00,64.4,70.2,Lower Southeast,64.0,78.0,Outside
+2021-09-05 08:00:00,64.22,76.8,Lower Southwest,64.0,78.0,Outside
+2021-09-05 08:00:00,71.06,65.2,Upper East (Garage),64.0,78.0,Outside
+2021-09-05 08:00:00,69.98,64.79,Upper West (Bedroom),64.0,78.0,Outside
 2021-09-05 08:00:00,64.0,78.0,Outside,64.0,78.0,Outside
-2021-09-05 09:00:00,71.24,57.9,Backyard,67.0,70.0,Outside
 2021-09-05 09:00:00,63.86,77.3,Lower Northeast,67.0,70.0,Outside
-2021-09-05 09:00:00,64.4,76.8,Lower Southwest,67.0,70.0,Outside
-2021-09-05 09:00:00,69.98,66.09,Upper West (Bedroom),67.0,70.0,Outside
-2021-09-05 09:00:00,71.06,66.8,Upper East (Garage),67.0,70.0,Outside
+2021-09-05 09:00:00,71.24,57.9,Backyard,67.0,70.0,Outside
 2021-09-05 09:00:00,64.4,70.7,Lower Southeast,67.0,70.0,Outside
+2021-09-05 09:00:00,64.4,76.8,Lower Southwest,67.0,70.0,Outside
+2021-09-05 09:00:00,71.06,66.8,Upper East (Garage),67.0,70.0,Outside
+2021-09-05 09:00:00,69.98,66.09,Upper West (Bedroom),67.0,70.0,Outside
 2021-09-05 09:00:00,67.0,70.0,Outside,67.0,70.0,Outside
-2021-09-05 10:00:00,71.42,58.3,Backyard,71.0,63.0,Outside
 2021-09-05 10:00:00,64.04,77.6,Lower Northeast,71.0,63.0,Outside
-2021-09-05 10:00:00,64.4,79.3,Lower Southwest,71.0,63.0,Outside
-2021-09-05 10:00:00,69.98,66.19,Upper West (Bedroom),71.0,63.0,Outside
-2021-09-05 10:00:00,71.24,67.1,Upper East (Garage),71.0,63.0,Outside
+2021-09-05 10:00:00,71.42,58.3,Backyard,71.0,63.0,Outside
 2021-09-05 10:00:00,64.4,70.9,Lower Southeast,71.0,63.0,Outside
+2021-09-05 10:00:00,64.4,79.3,Lower Southwest,71.0,63.0,Outside
+2021-09-05 10:00:00,71.24,67.1,Upper East (Garage),71.0,63.0,Outside
+2021-09-05 10:00:00,69.98,66.19,Upper West (Bedroom),71.0,63.0,Outside
 2021-09-05 10:00:00,71.0,63.0,Outside,71.0,63.0,Outside
-2021-09-05 11:00:00,71.42,60.4,Backyard,73.0,61.0,Outside
 2021-09-05 11:00:00,64.22,79.5,Lower Northeast,73.0,61.0,Outside
-2021-09-05 11:00:00,64.58,80.7,Lower Southwest,73.0,61.0,Outside
-2021-09-05 11:00:00,70.34,66.09,Upper West (Bedroom),73.0,61.0,Outside
-2021-09-05 11:00:00,71.24,67.1,Upper East (Garage),73.0,61.0,Outside
+2021-09-05 11:00:00,71.42,60.4,Backyard,73.0,61.0,Outside
 2021-09-05 11:00:00,64.22,71.1,Lower Southeast,73.0,61.0,Outside
+2021-09-05 11:00:00,64.58,80.7,Lower Southwest,73.0,61.0,Outside
+2021-09-05 11:00:00,71.24,67.1,Upper East (Garage),73.0,61.0,Outside
+2021-09-05 11:00:00,70.34,66.09,Upper West (Bedroom),73.0,61.0,Outside
 2021-09-05 11:00:00,73.0,61.0,Outside,73.0,61.0,Outside
-2021-09-05 12:00:00,71.6,60.4,Backyard,76.0,54.0,Outside
 2021-09-05 12:00:00,64.4,78.9,Lower Northeast,76.0,54.0,Outside
-2021-09-05 12:00:00,64.58,80.1,Lower Southwest,76.0,54.0,Outside
-2021-09-05 12:00:00,70.7,66.39,Upper West (Bedroom),76.0,54.0,Outside
-2021-09-05 12:00:00,71.24,65.8,Upper East (Garage),76.0,54.0,Outside
+2021-09-05 12:00:00,71.6,60.4,Backyard,76.0,54.0,Outside
 2021-09-05 12:00:00,64.4,71.2,Lower Southeast,76.0,54.0,Outside
+2021-09-05 12:00:00,64.58,80.1,Lower Southwest,76.0,54.0,Outside
+2021-09-05 12:00:00,71.24,65.8,Upper East (Garage),76.0,54.0,Outside
+2021-09-05 12:00:00,70.7,66.39,Upper West (Bedroom),76.0,54.0,Outside
 2021-09-05 12:00:00,76.0,54.0,Outside,76.0,54.0,Outside
-2021-09-05 13:00:00,71.78,62.3,Backyard,79.0,48.0,Outside
 2021-09-05 13:00:00,64.4,78.0,Lower Northeast,79.0,48.0,Outside
-2021-09-05 13:00:00,64.58,79.5,Lower Southwest,79.0,48.0,Outside
-2021-09-05 13:00:00,71.24,64.99,Upper West (Bedroom),79.0,48.0,Outside
-2021-09-05 13:00:00,71.6,65.7,Upper East (Garage),79.0,48.0,Outside
+2021-09-05 13:00:00,71.78,62.3,Backyard,79.0,48.0,Outside
 2021-09-05 13:00:00,64.4,71.3,Lower Southeast,79.0,48.0,Outside
+2021-09-05 13:00:00,64.58,79.5,Lower Southwest,79.0,48.0,Outside
+2021-09-05 13:00:00,71.6,65.7,Upper East (Garage),79.0,48.0,Outside
+2021-09-05 13:00:00,71.24,64.99,Upper West (Bedroom),79.0,48.0,Outside
 2021-09-05 13:00:00,79.0,48.0,Outside,79.0,48.0,Outside
-2021-09-05 14:00:00,71.96,62.9,Backyard,81.0,44.0,Outside
 2021-09-05 14:00:00,64.94,80.2,Lower Northeast,81.0,44.0,Outside
-2021-09-05 14:00:00,64.94,80.2,Lower Southwest,81.0,44.0,Outside
-2021-09-05 14:00:00,71.6,65.49,Upper West (Bedroom),81.0,44.0,Outside
-2021-09-05 14:00:00,71.78,66.4,Upper East (Garage),81.0,44.0,Outside
+2021-09-05 14:00:00,71.96,62.9,Backyard,81.0,44.0,Outside
 2021-09-05 14:00:00,64.58,71.6,Lower Southeast,81.0,44.0,Outside
+2021-09-05 14:00:00,64.94,80.2,Lower Southwest,81.0,44.0,Outside
+2021-09-05 14:00:00,71.78,66.4,Upper East (Garage),81.0,44.0,Outside
+2021-09-05 14:00:00,71.6,65.49,Upper West (Bedroom),81.0,44.0,Outside
 2021-09-05 14:00:00,81.0,44.0,Outside,81.0,44.0,Outside
-2021-09-05 15:00:00,72.14,63.2,Backyard,84.0,41.0,Outside
 2021-09-05 15:00:00,65.12,78.8,Lower Northeast,84.0,41.0,Outside
-2021-09-05 15:00:00,64.94,80.1,Lower Southwest,84.0,41.0,Outside
-2021-09-05 15:00:00,71.78,64.89,Upper West (Bedroom),84.0,41.0,Outside
-2021-09-05 15:00:00,71.78,66.1,Upper East (Garage),84.0,41.0,Outside
+2021-09-05 15:00:00,72.14,63.2,Backyard,84.0,41.0,Outside
 2021-09-05 15:00:00,64.58,71.9,Lower Southeast,84.0,41.0,Outside
+2021-09-05 15:00:00,64.94,80.1,Lower Southwest,84.0,41.0,Outside
+2021-09-05 15:00:00,71.78,66.1,Upper East (Garage),84.0,41.0,Outside
+2021-09-05 15:00:00,71.78,64.89,Upper West (Bedroom),84.0,41.0,Outside
 2021-09-05 15:00:00,84.0,41.0,Outside,84.0,41.0,Outside
-2021-09-05 16:00:00,72.32,64.2,Backyard,85.0,41.0,Outside
 2021-09-05 16:00:00,65.3,78.7,Lower Northeast,85.0,41.0,Outside
-2021-09-05 16:00:00,64.94,80.0,Lower Southwest,85.0,41.0,Outside
-2021-09-05 16:00:00,71.78,65.09,Upper West (Bedroom),85.0,41.0,Outside
-2021-09-05 16:00:00,71.96,66.2,Upper East (Garage),85.0,41.0,Outside
+2021-09-05 16:00:00,72.32,64.2,Backyard,85.0,41.0,Outside
 2021-09-05 16:00:00,64.58,72.1,Lower Southeast,85.0,41.0,Outside
+2021-09-05 16:00:00,64.94,80.0,Lower Southwest,85.0,41.0,Outside
+2021-09-05 16:00:00,71.96,66.2,Upper East (Garage),85.0,41.0,Outside
+2021-09-05 16:00:00,71.78,65.09,Upper West (Bedroom),85.0,41.0,Outside
 2021-09-05 16:00:00,85.0,41.0,Outside,85.0,41.0,Outside
-2021-09-05 17:00:00,72.5,64.3,Backyard,85.0,41.0,Outside
 2021-09-05 17:00:00,65.48,78.6,Lower Northeast,85.0,41.0,Outside
-2021-09-05 17:00:00,64.94,80.1,Lower Southwest,85.0,41.0,Outside
-2021-09-05 17:00:00,71.96,64.99,Upper West (Bedroom),85.0,41.0,Outside
-2021-09-05 17:00:00,72.14,66.1,Upper East (Garage),85.0,41.0,Outside
+2021-09-05 17:00:00,72.5,64.3,Backyard,85.0,41.0,Outside
 2021-09-05 17:00:00,64.58,72.3,Lower Southeast,85.0,41.0,Outside
+2021-09-05 17:00:00,64.94,80.1,Lower Southwest,85.0,41.0,Outside
+2021-09-05 17:00:00,72.14,66.1,Upper East (Garage),85.0,41.0,Outside
+2021-09-05 17:00:00,71.96,64.99,Upper West (Bedroom),85.0,41.0,Outside
 2021-09-05 17:00:00,85.0,41.0,Outside,85.0,41.0,Outside
-2021-09-05 18:00:00,72.68,64.7,Backyard,80.0,52.0,Outside
 2021-09-05 18:00:00,66.02,80.4,Lower Northeast,80.0,52.0,Outside
-2021-09-05 18:00:00,64.94,80.3,Lower Southwest,80.0,52.0,Outside
-2021-09-05 18:00:00,71.78,66.39,Upper West (Bedroom),80.0,52.0,Outside
-2021-09-05 18:00:00,72.14,66.8,Upper East (Garage),80.0,52.0,Outside
+2021-09-05 18:00:00,72.68,64.7,Backyard,80.0,52.0,Outside
 2021-09-05 18:00:00,64.76,72.7,Lower Southeast,80.0,52.0,Outside
+2021-09-05 18:00:00,64.94,80.3,Lower Southwest,80.0,52.0,Outside
+2021-09-05 18:00:00,72.14,66.8,Upper East (Garage),80.0,52.0,Outside
+2021-09-05 18:00:00,71.78,66.39,Upper West (Bedroom),80.0,52.0,Outside
 2021-09-05 18:00:00,80.0,52.0,Outside,80.0,52.0,Outside
-2021-09-05 19:00:00,72.68,65.3,Backyard,78.0,54.0,Outside
 2021-09-05 19:00:00,65.84,80.9,Lower Northeast,78.0,54.0,Outside
-2021-09-05 19:00:00,64.94,80.6,Lower Southwest,78.0,54.0,Outside
-2021-09-05 19:00:00,71.6,66.79,Upper West (Bedroom),78.0,54.0,Outside
-2021-09-05 19:00:00,72.14,66.9,Upper East (Garage),78.0,54.0,Outside
+2021-09-05 19:00:00,72.68,65.3,Backyard,78.0,54.0,Outside
 2021-09-05 19:00:00,64.76,73.1,Lower Southeast,78.0,54.0,Outside
+2021-09-05 19:00:00,64.94,80.6,Lower Southwest,78.0,54.0,Outside
+2021-09-05 19:00:00,72.14,66.9,Upper East (Garage),78.0,54.0,Outside
+2021-09-05 19:00:00,71.6,66.79,Upper West (Bedroom),78.0,54.0,Outside
 2021-09-05 19:00:00,78.0,54.0,Outside,78.0,54.0,Outside
-2021-09-05 20:00:00,72.68,65.3,Backyard,73.0,61.0,Outside
 2021-09-05 20:00:00,65.48,80.5,Lower Northeast,73.0,61.0,Outside
-2021-09-05 20:00:00,64.94,80.7,Lower Southwest,73.0,61.0,Outside
-2021-09-05 20:00:00,71.42,66.99,Upper West (Bedroom),73.0,61.0,Outside
-2021-09-05 20:00:00,72.14,67.5,Upper East (Garage),73.0,61.0,Outside
+2021-09-05 20:00:00,72.68,65.3,Backyard,73.0,61.0,Outside
 2021-09-05 20:00:00,65.12,72.9,Lower Southeast,73.0,61.0,Outside
+2021-09-05 20:00:00,64.94,80.7,Lower Southwest,73.0,61.0,Outside
+2021-09-05 20:00:00,72.14,67.5,Upper East (Garage),73.0,61.0,Outside
+2021-09-05 20:00:00,71.42,66.99,Upper West (Bedroom),73.0,61.0,Outside
 2021-09-05 20:00:00,73.0,61.0,Outside,73.0,61.0,Outside
-2021-09-05 21:00:00,72.5,64.7,Backyard,69.0,65.0,Outside
 2021-09-05 21:00:00,65.12,80.5,Lower Northeast,69.0,65.0,Outside
-2021-09-05 21:00:00,64.94,81.3,Lower Southwest,69.0,65.0,Outside
-2021-09-05 21:00:00,71.24,66.59,Upper West (Bedroom),69.0,65.0,Outside
-2021-09-05 21:00:00,72.14,67.6,Upper East (Garage),69.0,65.0,Outside
+2021-09-05 21:00:00,72.5,64.7,Backyard,69.0,65.0,Outside
 2021-09-05 21:00:00,65.12,73.0,Lower Southeast,69.0,65.0,Outside
+2021-09-05 21:00:00,64.94,81.3,Lower Southwest,69.0,65.0,Outside
+2021-09-05 21:00:00,72.14,67.6,Upper East (Garage),69.0,65.0,Outside
+2021-09-05 21:00:00,71.24,66.59,Upper West (Bedroom),69.0,65.0,Outside
 2021-09-05 21:00:00,69.0,65.0,Outside,69.0,65.0,Outside
-2021-09-05 22:00:00,72.5,65.0,Backyard,67.0,63.0,Outside
 2021-09-05 22:00:00,64.58,77.5,Lower Northeast,67.0,63.0,Outside
-2021-09-05 22:00:00,64.94,80.3,Lower Southwest,67.0,63.0,Outside
-2021-09-05 22:00:00,71.06,65.69,Upper West (Bedroom),67.0,63.0,Outside
-2021-09-05 22:00:00,71.96,65.5,Upper East (Garage),67.0,63.0,Outside
+2021-09-05 22:00:00,72.5,65.0,Backyard,67.0,63.0,Outside
 2021-09-05 22:00:00,65.3,72.7,Lower Southeast,67.0,63.0,Outside
+2021-09-05 22:00:00,64.94,80.3,Lower Southwest,67.0,63.0,Outside
+2021-09-05 22:00:00,71.96,65.5,Upper East (Garage),67.0,63.0,Outside
+2021-09-05 22:00:00,71.06,65.69,Upper West (Bedroom),67.0,63.0,Outside
 2021-09-05 22:00:00,67.0,63.0,Outside,67.0,63.0,Outside
-2021-09-05 23:00:00,71.6,59.2,Backyard,65.0,65.0,Outside
 2021-09-05 23:00:00,64.4,74.5,Lower Northeast,65.0,65.0,Outside
-2021-09-05 23:00:00,64.76,79.0,Lower Southwest,65.0,65.0,Outside
-2021-09-05 23:00:00,70.7,64.39,Upper West (Bedroom),65.0,65.0,Outside
-2021-09-05 23:00:00,71.78,64.0,Upper East (Garage),65.0,65.0,Outside
+2021-09-05 23:00:00,71.6,59.2,Backyard,65.0,65.0,Outside
 2021-09-05 23:00:00,64.94,72.8,Lower Southeast,65.0,65.0,Outside
+2021-09-05 23:00:00,64.76,79.0,Lower Southwest,65.0,65.0,Outside
+2021-09-05 23:00:00,71.78,64.0,Upper East (Garage),65.0,65.0,Outside
+2021-09-05 23:00:00,70.7,64.39,Upper West (Bedroom),65.0,65.0,Outside
 2021-09-05 23:00:00,65.0,65.0,Outside,65.0,65.0,Outside
-2021-09-06 00:00:00,71.24,61.7,Backyard,64.0,67.0,Outside
 2021-09-06 00:00:00,64.22,73.1,Lower Northeast,64.0,67.0,Outside
-2021-09-06 00:00:00,64.58,78.0,Lower Southwest,64.0,67.0,Outside
-2021-09-06 00:00:00,70.7,64.99,Upper West (Bedroom),64.0,67.0,Outside
-2021-09-06 00:00:00,71.6,62.9,Upper East (Garage),64.0,67.0,Outside
+2021-09-06 00:00:00,71.24,61.7,Backyard,64.0,67.0,Outside
 2021-09-06 00:00:00,64.58,72.6,Lower Southeast,64.0,67.0,Outside
+2021-09-06 00:00:00,64.58,78.0,Lower Southwest,64.0,67.0,Outside
+2021-09-06 00:00:00,71.6,62.9,Upper East (Garage),64.0,67.0,Outside
+2021-09-06 00:00:00,70.7,64.99,Upper West (Bedroom),64.0,67.0,Outside
 2021-09-06 00:00:00,64.0,67.0,Outside,64.0,67.0,Outside
-2021-09-06 01:00:00,71.24,61.9,Backyard,63.0,67.0,Outside
 2021-09-06 01:00:00,64.04,72.1,Lower Northeast,63.0,67.0,Outside
-2021-09-06 01:00:00,64.4,77.3,Lower Southwest,63.0,67.0,Outside
-2021-09-06 01:00:00,70.52,63.89,Upper West (Bedroom),63.0,67.0,Outside
-2021-09-06 01:00:00,71.6,61.4,Upper East (Garage),63.0,67.0,Outside
+2021-09-06 01:00:00,71.24,61.9,Backyard,63.0,67.0,Outside
 2021-09-06 01:00:00,64.4,72.5,Lower Southeast,63.0,67.0,Outside
+2021-09-06 01:00:00,64.4,77.3,Lower Southwest,63.0,67.0,Outside
+2021-09-06 01:00:00,71.6,61.4,Upper East (Garage),63.0,67.0,Outside
+2021-09-06 01:00:00,70.52,63.89,Upper West (Bedroom),63.0,67.0,Outside
 2021-09-06 01:00:00,63.0,67.0,Outside,63.0,67.0,Outside
-2021-09-06 02:00:00,70.88,61.3,Backyard,64.0,63.0,Outside
 2021-09-06 02:00:00,63.68,72.1,Lower Northeast,64.0,63.0,Outside
-2021-09-06 02:00:00,64.4,76.2,Lower Southwest,64.0,63.0,Outside
-2021-09-06 02:00:00,70.34,63.89,Upper West (Bedroom),64.0,63.0,Outside
-2021-09-06 02:00:00,71.6,61.2,Upper East (Garage),64.0,63.0,Outside
+2021-09-06 02:00:00,70.88,61.3,Backyard,64.0,63.0,Outside
 2021-09-06 02:00:00,64.4,72.2,Lower Southeast,64.0,63.0,Outside
+2021-09-06 02:00:00,64.4,76.2,Lower Southwest,64.0,63.0,Outside
+2021-09-06 02:00:00,71.6,61.2,Upper East (Garage),64.0,63.0,Outside
+2021-09-06 02:00:00,70.34,63.89,Upper West (Bedroom),64.0,63.0,Outside
 2021-09-06 02:00:00,64.0,63.0,Outside,64.0,63.0,Outside
-2021-09-06 03:00:00,70.52,61.4,Backyard,63.0,65.0,Outside
 2021-09-06 03:00:00,63.68,72.3,Lower Northeast,63.0,65.0,Outside
-2021-09-06 03:00:00,64.22,76.3,Lower Southwest,63.0,65.0,Outside
-2021-09-06 03:00:00,70.34,63.59,Upper West (Bedroom),63.0,65.0,Outside
-2021-09-06 03:00:00,71.6,60.8,Upper East (Garage),63.0,65.0,Outside
+2021-09-06 03:00:00,70.52,61.4,Backyard,63.0,65.0,Outside
 2021-09-06 03:00:00,64.22,72.2,Lower Southeast,63.0,65.0,Outside
+2021-09-06 03:00:00,64.22,76.3,Lower Southwest,63.0,65.0,Outside
+2021-09-06 03:00:00,71.6,60.8,Upper East (Garage),63.0,65.0,Outside
+2021-09-06 03:00:00,70.34,63.59,Upper West (Bedroom),63.0,65.0,Outside
 2021-09-06 03:00:00,63.0,65.0,Outside,63.0,65.0,Outside
-2021-09-06 04:00:00,70.52,61.1,Backyard,63.0,63.0,Outside
 2021-09-06 04:00:00,63.68,71.8,Lower Northeast,63.0,63.0,Outside
-2021-09-06 04:00:00,64.22,76.1,Lower Southwest,63.0,63.0,Outside
-2021-09-06 04:00:00,70.16,63.29,Upper West (Bedroom),63.0,63.0,Outside
-2021-09-06 04:00:00,71.6,60.9,Upper East (Garage),63.0,63.0,Outside
+2021-09-06 04:00:00,70.52,61.1,Backyard,63.0,63.0,Outside
 2021-09-06 04:00:00,64.22,71.9,Lower Southeast,63.0,63.0,Outside
+2021-09-06 04:00:00,64.22,76.1,Lower Southwest,63.0,63.0,Outside
+2021-09-06 04:00:00,71.6,60.9,Upper East (Garage),63.0,63.0,Outside
+2021-09-06 04:00:00,70.16,63.29,Upper West (Bedroom),63.0,63.0,Outside
 2021-09-06 04:00:00,63.0,63.0,Outside,63.0,63.0,Outside
-2021-09-06 05:00:00,70.34,59.2,Backyard,63.0,65.0,Outside
 2021-09-06 05:00:00,63.5,71.1,Lower Northeast,63.0,65.0,Outside
-2021-09-06 05:00:00,64.22,75.9,Lower Southwest,63.0,65.0,Outside
-2021-09-06 05:00:00,70.16,63.19,Upper West (Bedroom),63.0,65.0,Outside
-2021-09-06 05:00:00,71.42,60.5,Upper East (Garage),63.0,65.0,Outside
+2021-09-06 05:00:00,70.34,59.2,Backyard,63.0,65.0,Outside
 2021-09-06 05:00:00,64.22,71.9,Lower Southeast,63.0,65.0,Outside
+2021-09-06 05:00:00,64.22,75.9,Lower Southwest,63.0,65.0,Outside
+2021-09-06 05:00:00,71.42,60.5,Upper East (Garage),63.0,65.0,Outside
+2021-09-06 05:00:00,70.16,63.19,Upper West (Bedroom),63.0,65.0,Outside
 2021-09-06 05:00:00,63.0,65.0,Outside,63.0,65.0,Outside
-2021-09-06 06:00:00,70.34,58.3,Backyard,62.0,65.0,Outside
 2021-09-06 06:00:00,63.5,70.3,Lower Northeast,62.0,65.0,Outside
-2021-09-06 06:00:00,64.22,75.3,Lower Southwest,62.0,65.0,Outside
-2021-09-06 06:00:00,69.98,62.79,Upper West (Bedroom),62.0,65.0,Outside
-2021-09-06 06:00:00,71.42,59.7,Upper East (Garage),62.0,65.0,Outside
+2021-09-06 06:00:00,70.34,58.3,Backyard,62.0,65.0,Outside
 2021-09-06 06:00:00,64.22,71.7,Lower Southeast,62.0,65.0,Outside
+2021-09-06 06:00:00,64.22,75.3,Lower Southwest,62.0,65.0,Outside
+2021-09-06 06:00:00,71.42,59.7,Upper East (Garage),62.0,65.0,Outside
+2021-09-06 06:00:00,69.98,62.79,Upper West (Bedroom),62.0,65.0,Outside
 2021-09-06 06:00:00,62.0,65.0,Outside,62.0,65.0,Outside
-2021-09-06 07:00:00,70.16,57.5,Backyard,62.0,65.0,Outside
 2021-09-06 07:00:00,63.5,68.7,Lower Northeast,62.0,65.0,Outside
-2021-09-06 07:00:00,64.04,74.8,Lower Southwest,62.0,65.0,Outside
-2021-09-06 07:00:00,69.98,61.89,Upper West (Bedroom),62.0,65.0,Outside
-2021-09-06 07:00:00,71.24,58.9,Upper East (Garage),62.0,65.0,Outside
+2021-09-06 07:00:00,70.16,57.5,Backyard,62.0,65.0,Outside
 2021-09-06 07:00:00,64.22,71.5,Lower Southeast,62.0,65.0,Outside
+2021-09-06 07:00:00,64.04,74.8,Lower Southwest,62.0,65.0,Outside
+2021-09-06 07:00:00,71.24,58.9,Upper East (Garage),62.0,65.0,Outside
+2021-09-06 07:00:00,69.98,61.89,Upper West (Bedroom),62.0,65.0,Outside
 2021-09-06 07:00:00,62.0,65.0,Outside,62.0,65.0,Outside
-2021-09-06 08:00:00,69.98,57.9,Backyard,62.0,65.0,Outside
 2021-09-06 08:00:00,63.32,69.5,Lower Northeast,62.0,65.0,Outside
-2021-09-06 08:00:00,64.04,74.2,Lower Southwest,62.0,65.0,Outside
-2021-09-06 08:00:00,69.8,61.99,Upper West (Bedroom),62.0,65.0,Outside
-2021-09-06 08:00:00,71.24,58.5,Upper East (Garage),62.0,65.0,Outside
+2021-09-06 08:00:00,69.98,57.9,Backyard,62.0,65.0,Outside
 2021-09-06 08:00:00,64.04,70.8,Lower Southeast,62.0,65.0,Outside
+2021-09-06 08:00:00,64.04,74.2,Lower Southwest,62.0,65.0,Outside
+2021-09-06 08:00:00,71.24,58.5,Upper East (Garage),62.0,65.0,Outside
+2021-09-06 08:00:00,69.8,61.99,Upper West (Bedroom),62.0,65.0,Outside
 2021-09-06 08:00:00,62.0,65.0,Outside,62.0,65.0,Outside
-2021-09-06 09:00:00,69.8,56.5,Backyard,64.0,63.0,Outside
 2021-09-06 09:00:00,63.32,68.9,Lower Northeast,64.0,63.0,Outside
-2021-09-06 09:00:00,64.04,74.0,Lower Southwest,64.0,63.0,Outside
-2021-09-06 09:00:00,69.62,61.29,Upper West (Bedroom),64.0,63.0,Outside
-2021-09-06 09:00:00,71.06,60.1,Upper East (Garage),64.0,63.0,Outside
+2021-09-06 09:00:00,69.8,56.5,Backyard,64.0,63.0,Outside
 2021-09-06 09:00:00,64.22,69.9,Lower Southeast,64.0,63.0,Outside
+2021-09-06 09:00:00,64.04,74.0,Lower Southwest,64.0,63.0,Outside
+2021-09-06 09:00:00,71.06,60.1,Upper East (Garage),64.0,63.0,Outside
+2021-09-06 09:00:00,69.62,61.29,Upper West (Bedroom),64.0,63.0,Outside
 2021-09-06 09:00:00,64.0,63.0,Outside,64.0,63.0,Outside
-2021-09-06 10:00:00,69.98,57.4,Backyard,66.0,59.0,Outside
 2021-09-06 10:00:00,63.5,69.8,Lower Northeast,66.0,59.0,Outside
-2021-09-06 10:00:00,64.04,74.4,Lower Southwest,66.0,59.0,Outside
-2021-09-06 10:00:00,69.44,61.29,Upper West (Bedroom),66.0,59.0,Outside
-2021-09-06 10:00:00,70.88,61.3,Upper East (Garage),66.0,59.0,Outside
+2021-09-06 10:00:00,69.98,57.4,Backyard,66.0,59.0,Outside
 2021-09-06 10:00:00,64.04,70.5,Lower Southeast,66.0,59.0,Outside
+2021-09-06 10:00:00,64.04,74.4,Lower Southwest,66.0,59.0,Outside
+2021-09-06 10:00:00,70.88,61.3,Upper East (Garage),66.0,59.0,Outside
+2021-09-06 10:00:00,69.44,61.29,Upper West (Bedroom),66.0,59.0,Outside
 2021-09-06 10:00:00,66.0,59.0,Outside,66.0,59.0,Outside
-2021-09-06 11:00:00,70.7,61.3,Backyard,69.0,53.0,Outside
 2021-09-06 11:00:00,63.68,70.6,Lower Northeast,69.0,53.0,Outside
-2021-09-06 11:00:00,64.22,74.6,Lower Southwest,69.0,53.0,Outside
-2021-09-06 11:00:00,69.62,60.39,Upper West (Bedroom),69.0,53.0,Outside
-2021-09-06 11:00:00,70.88,60.4,Upper East (Garage),69.0,53.0,Outside
+2021-09-06 11:00:00,70.7,61.3,Backyard,69.0,53.0,Outside
 2021-09-06 11:00:00,64.22,70.7,Lower Southeast,69.0,53.0,Outside
+2021-09-06 11:00:00,64.22,74.6,Lower Southwest,69.0,53.0,Outside
+2021-09-06 11:00:00,70.88,60.4,Upper East (Garage),69.0,53.0,Outside
+2021-09-06 11:00:00,69.62,60.39,Upper West (Bedroom),69.0,53.0,Outside
 2021-09-06 11:00:00,69.0,53.0,Outside,69.0,53.0,Outside
-2021-09-06 12:00:00,70.7,58.8,Backyard,71.0,51.0,Outside
 2021-09-06 12:00:00,63.86,70.8,Lower Northeast,71.0,51.0,Outside
-2021-09-06 12:00:00,64.22,75.4,Lower Southwest,71.0,51.0,Outside
-2021-09-06 12:00:00,69.8,60.59,Upper West (Bedroom),71.0,51.0,Outside
-2021-09-06 12:00:00,71.06,61.0,Upper East (Garage),71.0,51.0,Outside
+2021-09-06 12:00:00,70.7,58.8,Backyard,71.0,51.0,Outside
 2021-09-06 12:00:00,64.58,70.4,Lower Southeast,71.0,51.0,Outside
+2021-09-06 12:00:00,64.22,75.4,Lower Southwest,71.0,51.0,Outside
+2021-09-06 12:00:00,71.06,61.0,Upper East (Garage),71.0,51.0,Outside
+2021-09-06 12:00:00,69.8,60.59,Upper West (Bedroom),71.0,51.0,Outside
 2021-09-06 12:00:00,71.0,51.0,Outside,71.0,51.0,Outside
-2021-09-06 13:00:00,70.88,59.7,Backyard,74.0,46.0,Outside
 2021-09-06 13:00:00,64.22,71.0,Lower Northeast,74.0,46.0,Outside
-2021-09-06 13:00:00,64.22,75.9,Lower Southwest,74.0,46.0,Outside
-2021-09-06 13:00:00,69.98,60.39,Upper West (Bedroom),74.0,46.0,Outside
-2021-09-06 13:00:00,71.24,61.4,Upper East (Garage),74.0,46.0,Outside
+2021-09-06 13:00:00,70.88,59.7,Backyard,74.0,46.0,Outside
 2021-09-06 13:00:00,64.4,70.4,Lower Southeast,74.0,46.0,Outside
+2021-09-06 13:00:00,64.22,75.9,Lower Southwest,74.0,46.0,Outside
+2021-09-06 13:00:00,71.24,61.4,Upper East (Garage),74.0,46.0,Outside
+2021-09-06 13:00:00,69.98,60.39,Upper West (Bedroom),74.0,46.0,Outside
 2021-09-06 13:00:00,74.0,46.0,Outside,74.0,46.0,Outside
-2021-09-06 14:00:00,70.88,59.4,Backyard,77.0,40.0,Outside
 2021-09-06 14:00:00,64.58,70.4,Lower Northeast,77.0,40.0,Outside
-2021-09-06 14:00:00,64.22,78.6,Lower Southwest,77.0,40.0,Outside
-2021-09-06 14:00:00,70.52,61.29,Upper West (Bedroom),77.0,40.0,Outside
-2021-09-06 14:00:00,71.42,60.9,Upper East (Garage),77.0,40.0,Outside
+2021-09-06 14:00:00,70.88,59.4,Backyard,77.0,40.0,Outside
 2021-09-06 14:00:00,64.22,70.4,Lower Southeast,77.0,40.0,Outside
+2021-09-06 14:00:00,64.22,78.6,Lower Southwest,77.0,40.0,Outside
+2021-09-06 14:00:00,71.42,60.9,Upper East (Garage),77.0,40.0,Outside
+2021-09-06 14:00:00,70.52,61.29,Upper West (Bedroom),77.0,40.0,Outside
 2021-09-06 14:00:00,77.0,40.0,Outside,77.0,40.0,Outside
-2021-09-06 15:00:00,71.06,58.2,Backyard,81.0,35.0,Outside
 2021-09-06 15:00:00,65.12,69.8,Lower Northeast,81.0,35.0,Outside
-2021-09-06 15:00:00,64.22,78.1,Lower Southwest,81.0,35.0,Outside
-2021-09-06 15:00:00,70.88,59.69,Upper West (Bedroom),81.0,35.0,Outside
-2021-09-06 15:00:00,71.6,59.7,Upper East (Garage),81.0,35.0,Outside
+2021-09-06 15:00:00,71.06,58.2,Backyard,81.0,35.0,Outside
 2021-09-06 15:00:00,64.22,70.6,Lower Southeast,81.0,35.0,Outside
+2021-09-06 15:00:00,64.22,78.1,Lower Southwest,81.0,35.0,Outside
+2021-09-06 15:00:00,71.6,59.7,Upper East (Garage),81.0,35.0,Outside
+2021-09-06 15:00:00,70.88,59.69,Upper West (Bedroom),81.0,35.0,Outside
 2021-09-06 15:00:00,81.0,35.0,Outside,81.0,35.0,Outside
-2021-09-06 16:00:00,71.24,58.2,Backyard,82.0,30.0,Outside
 2021-09-06 16:00:00,65.3,68.1,Lower Northeast,82.0,30.0,Outside
-2021-09-06 16:00:00,64.4,77.7,Lower Southwest,82.0,30.0,Outside
-2021-09-06 16:00:00,71.42,58.19,Upper West (Bedroom),82.0,30.0,Outside
-2021-09-06 16:00:00,71.78,59.4,Upper East (Garage),82.0,30.0,Outside
+2021-09-06 16:00:00,71.24,58.2,Backyard,82.0,30.0,Outside
 2021-09-06 16:00:00,64.22,70.5,Lower Southeast,82.0,30.0,Outside
+2021-09-06 16:00:00,64.4,77.7,Lower Southwest,82.0,30.0,Outside
+2021-09-06 16:00:00,71.78,59.4,Upper East (Garage),82.0,30.0,Outside
+2021-09-06 16:00:00,71.42,58.19,Upper West (Bedroom),82.0,30.0,Outside
 2021-09-06 16:00:00,82.0,30.0,Outside,82.0,30.0,Outside
-2021-09-06 17:00:00,71.24,60.1,Backyard,84.0,26.0,Outside
 2021-09-06 17:00:00,65.66,66.2,Lower Northeast,84.0,26.0,Outside
-2021-09-06 17:00:00,64.58,76.7,Lower Southwest,84.0,26.0,Outside
-2021-09-06 17:00:00,71.6,56.89,Upper West (Bedroom),84.0,26.0,Outside
-2021-09-06 17:00:00,71.78,57.9,Upper East (Garage),84.0,26.0,Outside
+2021-09-06 17:00:00,71.24,60.1,Backyard,84.0,26.0,Outside
 2021-09-06 17:00:00,64.58,70.4,Lower Southeast,84.0,26.0,Outside
+2021-09-06 17:00:00,64.58,76.7,Lower Southwest,84.0,26.0,Outside
+2021-09-06 17:00:00,71.78,57.9,Upper East (Garage),84.0,26.0,Outside
+2021-09-06 17:00:00,71.6,56.89,Upper West (Bedroom),84.0,26.0,Outside
 2021-09-06 17:00:00,84.0,26.0,Outside,84.0,26.0,Outside
-2021-09-06 18:00:00,71.42,60.5,Backyard,83.0,29.0,Outside
 2021-09-06 18:00:00,65.66,64.5,Lower Northeast,83.0,29.0,Outside
-2021-09-06 18:00:00,64.58,76.7,Lower Southwest,83.0,29.0,Outside
-2021-09-06 18:00:00,71.6,56.19,Upper West (Bedroom),83.0,29.0,Outside
-2021-09-06 18:00:00,71.96,57.4,Upper East (Garage),83.0,29.0,Outside
+2021-09-06 18:00:00,71.42,60.5,Backyard,83.0,29.0,Outside
 2021-09-06 18:00:00,64.58,70.2,Lower Southeast,83.0,29.0,Outside
+2021-09-06 18:00:00,64.58,76.7,Lower Southwest,83.0,29.0,Outside
+2021-09-06 18:00:00,71.96,57.4,Upper East (Garage),83.0,29.0,Outside
+2021-09-06 18:00:00,71.6,56.19,Upper West (Bedroom),83.0,29.0,Outside
 2021-09-06 18:00:00,83.0,29.0,Outside,83.0,29.0,Outside
-2021-09-06 19:00:00,71.24,60.7,Backyard,81.0,35.0,Outside
 2021-09-06 19:00:00,65.48,64.5,Lower Northeast,81.0,35.0,Outside
-2021-09-06 19:00:00,64.58,78.2,Lower Southwest,81.0,35.0,Outside
-2021-09-06 19:00:00,71.24,56.09,Upper West (Bedroom),81.0,35.0,Outside
-2021-09-06 19:00:00,71.96,56.4,Upper East (Garage),81.0,35.0,Outside
+2021-09-06 19:00:00,71.24,60.7,Backyard,81.0,35.0,Outside
 2021-09-06 19:00:00,64.58,69.8,Lower Southeast,81.0,35.0,Outside
+2021-09-06 19:00:00,64.58,78.2,Lower Southwest,81.0,35.0,Outside
+2021-09-06 19:00:00,71.96,56.4,Upper East (Garage),81.0,35.0,Outside
+2021-09-06 19:00:00,71.24,56.09,Upper West (Bedroom),81.0,35.0,Outside
 2021-09-06 19:00:00,81.0,35.0,Outside,81.0,35.0,Outside
-2021-09-06 20:00:00,71.24,61.4,Backyard,78.0,37.0,Outside
 2021-09-06 20:00:00,65.48,66.5,Lower Northeast,78.0,37.0,Outside
-2021-09-06 20:00:00,64.4,77.1,Lower Southwest,78.0,37.0,Outside
-2021-09-06 20:00:00,71.06,56.89,Upper West (Bedroom),78.0,37.0,Outside
-2021-09-06 20:00:00,71.96,59.2,Upper East (Garage),78.0,37.0,Outside
+2021-09-06 20:00:00,71.24,61.4,Backyard,78.0,37.0,Outside
 2021-09-06 20:00:00,64.4,69.8,Lower Southeast,78.0,37.0,Outside
+2021-09-06 20:00:00,64.4,77.1,Lower Southwest,78.0,37.0,Outside
+2021-09-06 20:00:00,71.96,59.2,Upper East (Garage),78.0,37.0,Outside
+2021-09-06 20:00:00,71.06,56.89,Upper West (Bedroom),78.0,37.0,Outside
 2021-09-06 20:00:00,78.0,37.0,Outside,78.0,37.0,Outside
-2021-09-06 21:00:00,71.24,61.4,Backyard,75.0,43.0,Outside
 2021-09-06 21:00:00,65.3,66.3,Lower Northeast,75.0,43.0,Outside
-2021-09-06 21:00:00,64.76,79.6,Lower Southwest,75.0,43.0,Outside
-2021-09-06 21:00:00,70.88,57.59,Upper West (Bedroom),75.0,43.0,Outside
-2021-09-06 21:00:00,71.96,59.3,Upper East (Garage),75.0,43.0,Outside
+2021-09-06 21:00:00,71.24,61.4,Backyard,75.0,43.0,Outside
 2021-09-06 21:00:00,64.94,69.6,Lower Southeast,75.0,43.0,Outside
+2021-09-06 21:00:00,64.76,79.6,Lower Southwest,75.0,43.0,Outside
+2021-09-06 21:00:00,71.96,59.3,Upper East (Garage),75.0,43.0,Outside
+2021-09-06 21:00:00,70.88,57.59,Upper West (Bedroom),75.0,43.0,Outside
 2021-09-06 21:00:00,75.0,43.0,Outside,75.0,43.0,Outside
-2021-09-06 22:00:00,71.24,60.9,Backyard,73.0,51.0,Outside
 2021-09-06 22:00:00,64.94,66.9,Lower Northeast,73.0,51.0,Outside
-2021-09-06 22:00:00,64.58,79.0,Lower Southwest,73.0,51.0,Outside
-2021-09-06 22:00:00,70.88,57.29,Upper West (Bedroom),73.0,51.0,Outside
-2021-09-06 22:00:00,71.96,58.9,Upper East (Garage),73.0,51.0,Outside
+2021-09-06 22:00:00,71.24,60.9,Backyard,73.0,51.0,Outside
 2021-09-06 22:00:00,64.58,70.2,Lower Southeast,73.0,51.0,Outside
+2021-09-06 22:00:00,64.58,79.0,Lower Southwest,73.0,51.0,Outside
+2021-09-06 22:00:00,71.96,58.9,Upper East (Garage),73.0,51.0,Outside
+2021-09-06 22:00:00,70.88,57.29,Upper West (Bedroom),73.0,51.0,Outside
 2021-09-06 22:00:00,73.0,51.0,Outside,73.0,51.0,Outside
-2021-09-06 23:00:00,70.88,54.5,Backyard,71.0,55.0,Outside
 2021-09-06 23:00:00,64.76,67.4,Lower Northeast,71.0,55.0,Outside
-2021-09-06 23:00:00,64.58,80.0,Lower Southwest,71.0,55.0,Outside
-2021-09-06 23:00:00,70.7,57.09,Upper West (Bedroom),71.0,55.0,Outside
-2021-09-06 23:00:00,71.96,58.6,Upper East (Garage),71.0,55.0,Outside
+2021-09-06 23:00:00,70.88,54.5,Backyard,71.0,55.0,Outside
 2021-09-06 23:00:00,64.58,70.1,Lower Southeast,71.0,55.0,Outside
+2021-09-06 23:00:00,64.58,80.0,Lower Southwest,71.0,55.0,Outside
+2021-09-06 23:00:00,71.96,58.6,Upper East (Garage),71.0,55.0,Outside
+2021-09-06 23:00:00,70.7,57.09,Upper West (Bedroom),71.0,55.0,Outside
 2021-09-06 23:00:00,71.0,55.0,Outside,71.0,55.0,Outside
+2021-09-07 00:00:00,64.76,67.2,Lower Northeast,69.0,58.0,Outside
+2021-09-07 00:00:00,70.52,52.8,Backyard,69.0,58.0,Outside
+2021-09-07 00:00:00,64.58,69.9,Lower Southeast,69.0,58.0,Outside
+2021-09-07 00:00:00,64.4,77.2,Lower Southwest,69.0,58.0,Outside
+2021-09-07 00:00:00,71.96,59.5,Upper East (Garage),69.0,58.0,Outside
+2021-09-07 00:00:00,70.7,58.39,Upper West (Bedroom),69.0,58.0,Outside
+2021-09-07 00:00:00,69.0,58.0,Outside,69.0,58.0,Outside
+2021-09-07 01:00:00,64.4,66.4,Lower Northeast,66.0,63.0,Outside
+2021-09-07 01:00:00,70.16,51.5,Backyard,66.0,63.0,Outside
+2021-09-07 01:00:00,64.58,69.8,Lower Southeast,66.0,63.0,Outside
+2021-09-07 01:00:00,64.4,76.1,Lower Southwest,66.0,63.0,Outside
+2021-09-07 01:00:00,71.78,58.2,Upper East (Garage),66.0,63.0,Outside
+2021-09-07 01:00:00,70.52,58.09,Upper West (Bedroom),66.0,63.0,Outside
+2021-09-07 01:00:00,66.0,63.0,Outside,66.0,63.0,Outside
+2021-09-07 02:00:00,64.4,67.3,Lower Northeast,65.0,63.0,Outside
+2021-09-07 02:00:00,70.7,50.7,Backyard,65.0,63.0,Outside
+2021-09-07 02:00:00,64.58,69.5,Lower Southeast,65.0,63.0,Outside
+2021-09-07 02:00:00,64.4,75.9,Lower Southwest,65.0,63.0,Outside
+2021-09-07 02:00:00,71.78,59.7,Upper East (Garage),65.0,63.0,Outside
+2021-09-07 02:00:00,70.52,58.69,Upper West (Bedroom),65.0,63.0,Outside
+2021-09-07 02:00:00,65.0,63.0,Outside,65.0,63.0,Outside
+2021-09-07 03:00:00,64.4,67.5,Lower Northeast,63.0,67.0,Outside
+2021-09-07 03:00:00,69.98,50.0,Backyard,63.0,67.0,Outside
+2021-09-07 03:00:00,64.4,69.6,Lower Southeast,63.0,67.0,Outside
+2021-09-07 03:00:00,64.22,75.9,Lower Southwest,63.0,67.0,Outside
+2021-09-07 03:00:00,71.6,59.3,Upper East (Garage),63.0,67.0,Outside
+2021-09-07 03:00:00,70.16,58.79,Upper West (Bedroom),63.0,67.0,Outside
+2021-09-07 03:00:00,63.0,67.0,Outside,63.0,67.0,Outside
+2021-09-07 04:00:00,64.22,67.8,Lower Northeast,62.0,70.0,Outside
+2021-09-07 04:00:00,70.16,50.4,Backyard,62.0,70.0,Outside
+2021-09-07 04:00:00,64.22,69.8,Lower Southeast,62.0,70.0,Outside
+2021-09-07 04:00:00,64.22,75.5,Lower Southwest,62.0,70.0,Outside
+2021-09-07 04:00:00,71.6,59.1,Upper East (Garage),62.0,70.0,Outside
+2021-09-07 04:00:00,70.16,59.49,Upper West (Bedroom),62.0,70.0,Outside
+2021-09-07 04:00:00,62.0,70.0,Outside,62.0,70.0,Outside
+2021-09-07 05:00:00,64.04,68.0,Lower Northeast,61.0,72.0,Outside
+2021-09-07 05:00:00,70.34,49.6,Backyard,61.0,72.0,Outside
+2021-09-07 05:00:00,64.22,70.0,Lower Southeast,61.0,72.0,Outside
+2021-09-07 05:00:00,64.22,75.2,Lower Southwest,61.0,72.0,Outside
+2021-09-07 05:00:00,71.6,59.8,Upper East (Garage),61.0,72.0,Outside
+2021-09-07 05:00:00,69.98,60.09,Upper West (Bedroom),61.0,72.0,Outside
+2021-09-07 05:00:00,61.0,72.0,Outside,61.0,72.0,Outside
+2021-09-07 06:00:00,63.86,68.1,Lower Northeast,60.0,78.0,Outside
+2021-09-07 06:00:00,70.34,49.5,Backyard,60.0,78.0,Outside
+2021-09-07 06:00:00,64.22,70.2,Lower Southeast,60.0,78.0,Outside
+2021-09-07 06:00:00,64.04,75.0,Lower Southwest,60.0,78.0,Outside
+2021-09-07 06:00:00,71.6,59.5,Upper East (Garage),60.0,78.0,Outside
+2021-09-07 06:00:00,70.16,60.29,Upper West (Bedroom),60.0,78.0,Outside
+2021-09-07 06:00:00,60.0,78.0,Outside,60.0,78.0,Outside
+2021-09-07 07:00:00,63.68,68.1,Lower Northeast,59.0,78.0,Outside
+2021-09-07 07:00:00,70.34,49.6,Backyard,59.0,78.0,Outside
+2021-09-07 07:00:00,64.22,70.0,Lower Southeast,59.0,78.0,Outside
+2021-09-07 07:00:00,64.04,74.2,Lower Southwest,59.0,78.0,Outside
+2021-09-07 07:00:00,71.42,59.9,Upper East (Garage),59.0,78.0,Outside
+2021-09-07 07:00:00,69.98,60.39,Upper West (Bedroom),59.0,78.0,Outside
+2021-09-07 07:00:00,59.0,78.0,Outside,59.0,78.0,Outside
+2021-09-07 08:00:00,63.68,68.4,Lower Northeast,60.0,72.0,Outside
+2021-09-07 08:00:00,70.16,49.8,Backyard,60.0,72.0,Outside
+2021-09-07 08:00:00,64.22,70.1,Lower Southeast,60.0,72.0,Outside
+2021-09-07 08:00:00,64.04,74.5,Lower Southwest,60.0,72.0,Outside
+2021-09-07 08:00:00,71.24,59.0,Upper East (Garage),60.0,72.0,Outside
+2021-09-07 08:00:00,69.8,60.19,Upper West (Bedroom),60.0,72.0,Outside
+2021-09-07 08:00:00,60.0,72.0,Outside,60.0,72.0,Outside
+2021-09-07 09:00:00,63.86,68.9,Lower Northeast,62.0,67.0,Outside
+2021-09-07 09:00:00,69.98,51.9,Backyard,62.0,67.0,Outside
+2021-09-07 09:00:00,64.22,70.0,Lower Southeast,62.0,67.0,Outside
+2021-09-07 09:00:00,64.04,74.8,Lower Southwest,62.0,67.0,Outside
+2021-09-07 09:00:00,71.24,60.2,Upper East (Garage),62.0,67.0,Outside
+2021-09-07 09:00:00,69.8,60.59,Upper West (Bedroom),62.0,67.0,Outside
+2021-09-07 09:00:00,62.0,67.0,Outside,62.0,67.0,Outside
+2021-09-07 10:00:00,64.04,69.0,Lower Northeast,66.0,60.0,Outside
+2021-09-07 10:00:00,70.52,53.1,Backyard,66.0,60.0,Outside
+2021-09-07 10:00:00,64.22,70.2,Lower Southeast,66.0,60.0,Outside
+2021-09-07 10:00:00,64.04,75.0,Lower Southwest,66.0,60.0,Outside
+2021-09-07 10:00:00,71.24,61.1,Upper East (Garage),66.0,60.0,Outside
+2021-09-07 10:00:00,69.8,59.99,Upper West (Bedroom),66.0,60.0,Outside
+2021-09-07 10:00:00,66.0,60.0,Outside,66.0,60.0,Outside
+2021-09-07 11:00:00,64.22,69.3,Lower Northeast,70.0,53.0,Outside
+2021-09-07 11:00:00,70.52,53.8,Backyard,70.0,53.0,Outside
+2021-09-07 11:00:00,64.22,70.4,Lower Southeast,70.0,53.0,Outside
+2021-09-07 11:00:00,64.22,75.7,Lower Southwest,70.0,53.0,Outside
+2021-09-07 11:00:00,71.42,60.1,Upper East (Garage),70.0,53.0,Outside
+2021-09-07 11:00:00,69.98,59.19,Upper West (Bedroom),70.0,53.0,Outside
+2021-09-07 11:00:00,70.0,53.0,Outside,70.0,53.0,Outside
+2021-09-07 12:00:00,64.58,69.2,Lower Northeast,74.0,46.0,Outside
+2021-09-07 12:00:00,71.06,54.2,Backyard,74.0,46.0,Outside
+2021-09-07 12:00:00,64.22,70.2,Lower Southeast,74.0,46.0,Outside
+2021-09-07 12:00:00,64.22,76.3,Lower Southwest,74.0,46.0,Outside
+2021-09-07 12:00:00,71.6,60.9,Upper East (Garage),74.0,46.0,Outside
+2021-09-07 12:00:00,70.34,60.09,Upper West (Bedroom),74.0,46.0,Outside
+2021-09-07 12:00:00,74.0,46.0,Outside,74.0,46.0,Outside
+2021-09-07 13:00:00,64.94,70.3,Lower Northeast,77.0,42.0,Outside
+2021-09-07 13:00:00,71.24,54.0,Backyard,77.0,42.0,Outside
+2021-09-07 13:00:00,64.22,70.4,Lower Southeast,77.0,42.0,Outside
+2021-09-07 13:00:00,64.4,76.9,Lower Southwest,77.0,42.0,Outside
+2021-09-07 13:00:00,71.78,61.0,Upper East (Garage),77.0,42.0,Outside
+2021-09-07 13:00:00,70.88,59.79,Upper West (Bedroom),77.0,42.0,Outside
+2021-09-07 13:00:00,77.0,42.0,Outside,77.0,42.0,Outside
+2021-09-07 14:00:00,65.12,70.3,Lower Northeast,81.0,36.0,Outside
+2021-09-07 14:00:00,71.24,56.4,Backyard,81.0,36.0,Outside
+2021-09-07 14:00:00,64.22,70.8,Lower Southeast,81.0,36.0,Outside
+2021-09-07 14:00:00,64.4,78.9,Lower Southwest,81.0,36.0,Outside
+2021-09-07 14:00:00,71.96,60.1,Upper East (Garage),81.0,36.0,Outside
+2021-09-07 14:00:00,70.88,59.19,Upper West (Bedroom),81.0,36.0,Outside
+2021-09-07 14:00:00,81.0,36.0,Outside,81.0,36.0,Outside
+2021-09-07 15:00:00,65.12,70.6,Lower Northeast,83.0,34.0,Outside
+2021-09-07 15:00:00,71.06,57.8,Backyard,83.0,34.0,Outside
+2021-09-07 15:00:00,64.22,71.1,Lower Southeast,83.0,34.0,Outside
+2021-09-07 15:00:00,64.58,79.5,Lower Southwest,83.0,34.0,Outside
+2021-09-07 15:00:00,71.96,59.7,Upper East (Garage),83.0,34.0,Outside
+2021-09-07 15:00:00,71.6,58.59,Upper West (Bedroom),83.0,34.0,Outside
+2021-09-07 15:00:00,83.0,34.0,Outside,83.0,34.0,Outside
+2021-09-07 16:00:00,65.3,72.5,Lower Northeast,86.0,30.0,Outside
+2021-09-07 16:00:00,79.7,49.2,Backyard,86.0,30.0,Outside
+2021-09-07 16:00:00,64.76,71.1,Lower Southeast,86.0,30.0,Outside
+2021-09-07 16:00:00,64.94,80.8,Lower Southwest,86.0,30.0,Outside
+2021-09-07 16:00:00,71.96,60.9,Upper East (Garage),86.0,30.0,Outside
+2021-09-07 16:00:00,72.14,58.59,Upper West (Bedroom),86.0,30.0,Outside
+2021-09-07 16:00:00,86.0,30.0,Outside,86.0,30.0,Outside
+2021-09-07 17:00:00,65.48,71.3,Lower Northeast,88.0,28.0,Outside
+2021-09-07 17:00:00,83.12,46.1,Backyard,88.0,28.0,Outside
+2021-09-07 17:00:00,64.58,71.5,Lower Southeast,88.0,28.0,Outside
+2021-09-07 17:00:00,64.76,79.8,Lower Southwest,88.0,28.0,Outside
+2021-09-07 17:00:00,72.14,61.2,Upper East (Garage),88.0,28.0,Outside
+2021-09-07 17:00:00,72.32,58.69,Upper West (Bedroom),88.0,28.0,Outside
+2021-09-07 17:00:00,88.0,28.0,Outside,88.0,28.0,Outside
+2021-09-07 18:00:00,65.48,72.1,Lower Northeast,88.0,27.0,Outside
+2021-09-07 18:00:00,82.76,45.8,Backyard,88.0,27.0,Outside
+2021-09-07 18:00:00,64.94,71.4,Lower Southeast,88.0,27.0,Outside
+2021-09-07 18:00:00,64.94,81.1,Lower Southwest,88.0,27.0,Outside
+2021-09-07 18:00:00,72.14,60.3,Upper East (Garage),88.0,27.0,Outside
+2021-09-07 18:00:00,72.5,57.89,Upper West (Bedroom),88.0,27.0,Outside
+2021-09-07 18:00:00,88.0,27.0,Outside,88.0,27.0,Outside
+2021-09-07 19:00:00,65.66,72.8,Lower Northeast,86.0,31.0,Outside
+2021-09-07 19:00:00,79.7,50.5,Backyard,86.0,31.0,Outside
+2021-09-07 19:00:00,64.58,71.9,Lower Southeast,86.0,31.0,Outside
+2021-09-07 19:00:00,64.94,82.8,Lower Southwest,86.0,31.0,Outside
+2021-09-07 19:00:00,72.14,62.1,Upper East (Garage),86.0,31.0,Outside
+2021-09-07 19:00:00,72.14,59.29,Upper West (Bedroom),86.0,31.0,Outside
+2021-09-07 19:00:00,86.0,31.0,Outside,86.0,31.0,Outside
+2021-09-07 20:00:00,65.84,74.5,Lower Northeast,82.0,35.0,Outside
+2021-09-07 20:00:00,74.3,56.7,Backyard,82.0,35.0,Outside
+2021-09-07 20:00:00,64.58,72.2,Lower Southeast,82.0,35.0,Outside
+2021-09-07 20:00:00,64.76,81.9,Lower Southwest,82.0,35.0,Outside
+2021-09-07 20:00:00,72.32,62.2,Upper East (Garage),82.0,35.0,Outside
+2021-09-07 20:00:00,71.78,61.49,Upper West (Bedroom),82.0,35.0,Outside
+2021-09-07 20:00:00,82.0,35.0,Outside,82.0,35.0,Outside
+2021-09-07 21:00:00,65.48,73.5,Lower Northeast,81.0,39.0,Outside
+2021-09-07 21:00:00,71.6,58.8,Backyard,81.0,39.0,Outside
+2021-09-07 21:00:00,64.94,72.1,Lower Southeast,81.0,39.0,Outside
+2021-09-07 21:00:00,64.94,83.4,Lower Southwest,81.0,39.0,Outside
+2021-09-07 21:00:00,72.32,61.2,Upper East (Garage),81.0,39.0,Outside
+2021-09-07 21:00:00,71.6,61.99,Upper West (Bedroom),81.0,39.0,Outside
+2021-09-07 21:00:00,81.0,39.0,Outside,81.0,39.0,Outside
+2021-09-07 22:00:00,65.48,75.1,Lower Northeast,76.0,54.0,Outside
+2021-09-07 22:00:00,70.34,60.2,Backyard,76.0,54.0,Outside
+2021-09-07 22:00:00,64.76,72.2,Lower Southeast,76.0,54.0,Outside
+2021-09-07 22:00:00,64.76,82.4,Lower Southwest,76.0,54.0,Outside
+2021-09-07 22:00:00,72.32,60.8,Upper East (Garage),76.0,54.0,Outside
+2021-09-07 22:00:00,71.42,62.19,Upper West (Bedroom),76.0,54.0,Outside
+2021-09-07 22:00:00,76.0,54.0,Outside,76.0,54.0,Outside
+2021-09-07 23:00:00,65.3,75.4,Lower Northeast,77.0,46.0,Outside
+2021-09-07 23:00:00,65.3,75.4,Lower Northeast,77.0,46.0,Outside
+2021-09-07 23:00:00,69.98,61.2,Backyard,77.0,46.0,Outside
+2021-09-07 23:00:00,69.98,61.2,Backyard,77.0,46.0,Outside
+2021-09-07 23:00:00,64.76,72.2,Lower Southeast,77.0,46.0,Outside
+2021-09-07 23:00:00,64.76,72.2,Lower Southeast,77.0,46.0,Outside
+2021-09-07 23:00:00,64.76,83.1,Lower Southwest,77.0,46.0,Outside
+2021-09-07 23:00:00,64.76,83.1,Lower Southwest,77.0,46.0,Outside
+2021-09-07 23:00:00,72.32,61.6,Upper East (Garage),77.0,46.0,Outside
+2021-09-07 23:00:00,72.32,61.6,Upper East (Garage),77.0,46.0,Outside
+2021-09-07 23:00:00,71.42,62.09,Upper West (Bedroom),77.0,46.0,Outside
+2021-09-07 23:00:00,71.42,62.09,Upper West (Bedroom),77.0,46.0,Outside
+2021-09-07 23:00:00,77.0,46.0,Outside,77.0,46.0,Outside
+2021-09-07 23:00:00,77.0,46.0,Outside,77.0,46.0,Outside
+2021-09-07 23:00:00,77.0,46.0,Outside,77.0,46.0,Outside
+2021-09-07 23:00:00,77.0,46.0,Outside,77.0,46.0,Outside
+2021-09-08 00:00:00,65.3,74.9,Lower Northeast,77.0,43.0,Outside
+2021-09-08 00:00:00,69.62,62.0,Backyard,77.0,43.0,Outside
+2021-09-08 00:00:00,64.76,72.4,Lower Southeast,77.0,43.0,Outside
+2021-09-08 00:00:00,64.76,83.6,Lower Southwest,77.0,43.0,Outside
+2021-09-08 00:00:00,72.32,63.0,Upper East (Garage),77.0,43.0,Outside
+2021-09-08 00:00:00,71.24,62.49,Upper West (Bedroom),77.0,43.0,Outside
+2021-09-08 00:00:00,77.0,43.0,Outside,77.0,43.0,Outside
+2021-09-08 01:00:00,65.12,74.6,Lower Northeast,76.0,42.0,Outside
+2021-09-08 01:00:00,68.72,62.7,Backyard,76.0,42.0,Outside
+2021-09-08 01:00:00,64.58,72.6,Lower Southeast,76.0,42.0,Outside
+2021-09-08 01:00:00,64.76,83.2,Lower Southwest,76.0,42.0,Outside
+2021-09-08 01:00:00,72.32,63.6,Upper East (Garage),76.0,42.0,Outside
+2021-09-08 01:00:00,71.24,62.59,Upper West (Bedroom),76.0,42.0,Outside
+2021-09-08 01:00:00,76.0,42.0,Outside,76.0,42.0,Outside
+2021-09-08 02:00:00,65.12,74.8,Lower Northeast,75.0,44.0,Outside
+2021-09-08 02:00:00,68.0,64.6,Backyard,75.0,44.0,Outside
+2021-09-08 02:00:00,64.4,72.6,Lower Southeast,75.0,44.0,Outside
+2021-09-08 02:00:00,64.58,81.3,Lower Southwest,75.0,44.0,Outside
+2021-09-08 02:00:00,72.32,63.8,Upper East (Garage),75.0,44.0,Outside
+2021-09-08 02:00:00,71.06,62.29,Upper West (Bedroom),75.0,44.0,Outside
+2021-09-08 02:00:00,75.0,44.0,Outside,75.0,44.0,Outside
+2021-09-08 03:00:00,64.94,72.9,Lower Northeast,71.0,51.0,Outside
+2021-09-08 03:00:00,65.3,66.3,Backyard,71.0,51.0,Outside
+2021-09-08 03:00:00,64.4,72.6,Lower Southeast,71.0,51.0,Outside
+2021-09-08 03:00:00,64.4,80.0,Lower Southwest,71.0,51.0,Outside
+2021-09-08 03:00:00,72.14,61.9,Upper East (Garage),71.0,51.0,Outside
+2021-09-08 03:00:00,70.88,63.19,Upper West (Bedroom),71.0,51.0,Outside
+2021-09-08 03:00:00,71.0,51.0,Outside,71.0,51.0,Outside
+2021-09-08 04:00:00,64.4,70.1,Lower Northeast,70.0,53.0,Outside
+2021-09-08 04:00:00,62.96,66.5,Backyard,70.0,53.0,Outside
+2021-09-08 04:00:00,64.22,72.3,Lower Southeast,70.0,53.0,Outside
+2021-09-08 04:00:00,64.4,78.7,Lower Southwest,70.0,53.0,Outside
+2021-09-08 04:00:00,72.14,60.6,Upper East (Garage),70.0,53.0,Outside
+2021-09-08 04:00:00,70.7,62.39,Upper West (Bedroom),70.0,53.0,Outside
+2021-09-08 04:00:00,70.0,53.0,Outside,70.0,53.0,Outside
+2021-09-08 05:00:00,64.04,67.9,Lower Northeast,68.0,65.0,Outside
+2021-09-08 05:00:00,61.34,66.9,Backyard,68.0,65.0,Outside
+2021-09-08 05:00:00,64.22,72.0,Lower Southeast,68.0,65.0,Outside
+2021-09-08 05:00:00,64.22,77.6,Lower Southwest,68.0,65.0,Outside
+2021-09-08 05:00:00,71.96,59.2,Upper East (Garage),68.0,65.0,Outside
+2021-09-08 05:00:00,70.52,60.09,Upper West (Bedroom),68.0,65.0,Outside
+2021-09-08 05:00:00,68.0,65.0,Outside,68.0,65.0,Outside
+2021-09-08 06:00:00,63.68,67.1,Lower Northeast,67.0,66.0,Outside
+2021-09-08 06:00:00,60.44,67.6,Backyard,67.0,66.0,Outside
+2021-09-08 06:00:00,64.22,71.9,Lower Southeast,67.0,66.0,Outside
+2021-09-08 06:00:00,64.04,76.3,Lower Southwest,67.0,66.0,Outside
+2021-09-08 06:00:00,71.96,58.1,Upper East (Garage),67.0,66.0,Outside
+2021-09-08 06:00:00,70.34,59.19,Upper West (Bedroom),67.0,66.0,Outside
+2021-09-08 06:00:00,67.0,66.0,Outside,67.0,66.0,Outside
+2021-09-08 07:00:00,63.5,66.5,Lower Northeast,63.0,70.0,Outside
+2021-09-08 07:00:00,59.54,67.7,Backyard,63.0,70.0,Outside
+2021-09-08 07:00:00,64.22,71.8,Lower Southeast,63.0,70.0,Outside
+2021-09-08 07:00:00,64.04,75.4,Lower Southwest,63.0,70.0,Outside
+2021-09-08 07:00:00,71.78,57.7,Upper East (Garage),63.0,70.0,Outside
+2021-09-08 07:00:00,70.34,60.39,Upper West (Bedroom),63.0,70.0,Outside
+2021-09-08 07:00:00,63.0,70.0,Outside,63.0,70.0,Outside
+2021-09-08 08:00:00,63.68,68.2,Lower Northeast,65.0,73.0,Outside
+2021-09-08 08:00:00,59.9,69.4,Backyard,65.0,73.0,Outside
+2021-09-08 08:00:00,64.04,75.4,Lower Southwest,65.0,73.0,Outside
+2021-09-08 08:00:00,70.34,59.99,Upper West (Bedroom),65.0,73.0,Outside
+2021-09-08 08:00:00,65.0,73.0,Outside,65.0,73.0,Outside
